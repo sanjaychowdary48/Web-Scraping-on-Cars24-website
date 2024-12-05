@@ -1,0 +1,841 @@
+﻿Make,Model,Variant,Year,Kilometers_Drived,Fuel_Type,Ownership,Emi_per_month,Current_Price,Original_Price,Location
+Mahindra,Thar,LX D 4WD MT CONVERTIBLE,2020,"11,003",Diesel,1st Owner,"21,756",₹11.43L,₹12.31L,Delhi
+Tata,Harrier,XT PLUS 2.0L KRYOTEC DARK EDITON,2022,"27,990",Diesel,1st Owner,"26,514",₹13.93L,₹16.32L,Delhi
+Mahindra,Scorpio,S11 2WD,2020,"38,553",Diesel,1st Owner,"27,162",₹14.27L,₹15.79L,Noida
+Tata,PUNCH,CREATIVE  1.2 RTN DUAL TONE,2022,450,Petrol,1st Owner,"14,917",₹7.63L,₹8.46L,Ghaziabad
+Mahindra,XUV700,AX 7 LUXURY D AWD AT 7 STR,2022,"62,839",Diesel,1st Owner,"39,020",₹20.50L,₹23.22L,Gurugram
+Ford,Ecosport,TITANIUM + 1.5L PETROL AT,2019,"58,902",Petrol,1st Owner,"14,604",₹7.47L,,Delhi
+Tata,Tiago,XE PETROL,2023,"6,676",Petrol,1st Owner,"9,423",₹4.82L,,Gurugram
+Maruti,Alto K10,VXI AMT,2014,"71,297",Petrol,1st Owner,"5,805",₹2.61L,,Delhi
+Honda,Amaze,1.2L I-VTEC S,2022,"15,935",Petrol,1st Owner,"13,685",₹7.00L,₹7.58L,Delhi
+MG,HECTOR,SHARP 1.5 PETROL CVT,2022,"26,999",Petrol,1st Owner,"29,408",₹15.45L,₹17.35L,Delhi
+Honda,City,1.5L I-VTEC ZX CVT,2017,"65,434",Petrol,2nd Owner,"14,858",₹7.60L,₹8.12L,Delhi
+Ford,FREESTYLE,TITANIUM PLUS 1.2 PETROL,2018,"66,729",Petrol,1st Owner,"9,501",₹4.86L,₹5.68L,Gurugram
+Maruti,Ciaz,S 1.5 MT PETROL,2020,"24,961",Petrol,1st Owner,"16,191",₹8.51L,₹8.97L,Delhi
+Maruti,Alto,LXI O,2019,"60,452",Petrol,1st Owner,"6,041",₹3.09L,₹3.75L,Delhi
+KIA,CARENS,LUXURY PLUS 1.5 DIESEL AT 7 STR,2022,"34,785",Diesel,1st Owner,"29,217",₹15.35L,₹16.53L,Gurugram
+Hyundai,Verna,1.6 VTVT SX O,2017,"94,020",Petrol,1st Owner,"15,817",₹8.31L,,Delhi
+Mahindra,XUV500,W7 AT,2021,"25,366",Diesel,1st Owner,"23,088",₹12.13L,₹14.00L,Gurugram
+Maruti,S PRESSO,VXI CNG,2020,"75,502",,1st Owner,"8,411",₹4.30L,,Delhi
+Tata,NEXON,XZ PLUS PETROL,2022,"22,894",Petrol,1st Owner,"16,864",₹8.86L,₹9.44L,Delhi
+Hyundai,AURA,S 1.2 CNG,2022,"39,362",,1st Owner,"13,607",₹6.96L,₹7.78L,Delhi
+Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2018,"76,156",Petrol,1st Owner,"13,411",₹6.86L,₹7.38L,Noida
+Hyundai,Xcent,SX 1.2,2017,"61,102",Petrol,1st Owner,"8,915",₹4.56L,₹5.31L,Ghaziabad
+Renault,TRIBER,RXZ,2020,"34,727",Petrol,1st Owner,"11,618",₹5.94L,₹6.59L,Gurugram
+Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,2018,"45,396",Petrol,2nd Owner,"12,649",₹6.47L,₹6.93L,Gurugram
+Maruti,XL6,ALPHA PLUS MT,2022,"43,851",Petrol,1st Owner,"21,413",₹11.25L,₹12.20L,Gurugram
+Hyundai,NEW SANTRO,SPORTZ CNG,2020,"63,272",,1st Owner,"9,845",₹5.04L,₹5.72L,Noida
+Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2019,"59,733",Petrol,1st Owner,"13,255",₹6.78L,₹7.59L,Gurugram
+Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,2019,"39,903",Petrol,1st Owner,"15,171",₹7.76L,₹8.39L,Delhi
+Volkswagen,VIRTUS,COMFORTLINE TSI 1.0 MT,2022,"28,094",Petrol,1st Owner,"17,473",₹9.18L,₹10.87L,Delhi
+MG,HECTOR,SUPER 1.5 PETROL,2020,"27,061",Petrol,1st Owner,"21,604",₹11.35L,₹12.22L,Noida
+Volkswagen,VIRTUS,HIGHLINE TSI 1.0 AT,2023,"9,083",Petrol,1st Owner,"25,753",₹13.53L,₹14.57L,Gurugram
+Tata,PUNCH,ACCOMPLISHED MT,2022,"21,955",Petrol,1st Owner,"12,973",₹6.64L,₹7.12L,Noida
+Maruti,Eeco,5 STR WITH A/C+HTR,2019,"43,731",Petrol,1st Owner,"7,639",₹3.91L,₹4.20L,Delhi
+Mahindra,KUV 100 NXT,K2+ P 6 STR,2020,"19,376",Petrol,1st Owner,"8,837",₹4.52L,,Delhi
+Hyundai,Verna,FLUIDIC 1.6 VTVT EX,2013,"75,537",Petrol,1st Owner,"9,507",₹3.61L,₹3.83L,Noida
+Maruti,Swift,ZXI PLUS,2022,"24,626",Petrol,1st Owner,"14,792",₹7.57L,₹8.33L,Delhi
+Nissan,MAGNITE,XL,2022,"18,331",Petrol,1st Owner,"11,898",₹6.09L,₹6.65L,Noida
+Maruti,Celerio,VXI,2022,"12,708",Petrol,1st Owner,"9,658",₹4.94L,₹5.52L,Gurugram
+Nissan,MAGNITE,XE,2022,"36,341",Petrol,1st Owner,"10,772",₹5.51L,₹6.00L,Faridabad
+Tata,Harrier,XZ 2.0L DARK EDITION,2019,"56,690",Diesel,2nd Owner,"22,308",₹10.26L,₹11.40L,Noida
+Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2018,"76,156",Petrol,1st Owner,"13,411",₹6.86L,₹7.38L,Noida
+Hyundai,Xcent,SX 1.2,2017,"61,102",Petrol,1st Owner,"8,915",₹4.56L,₹5.31L,Ghaziabad
+Renault,TRIBER,RXZ,2020,"34,727",Petrol,1st Owner,"11,618",₹5.94L,₹6.59L,Gurugram
+Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,2018,"45,396",Petrol,2nd Owner,"12,649",₹6.47L,₹6.93L,Gurugram
+Maruti,XL6,ALPHA PLUS MT,2022,"43,851",Petrol,1st Owner,"21,413",₹11.25L,₹12.20L,Gurugram
+Hyundai,NEW SANTRO,SPORTZ CNG,2020,"63,272",,1st Owner,"9,845",₹5.04L,₹5.72L,Noida
+Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2019,"59,733",Petrol,1st Owner,"13,255",₹6.78L,₹7.59L,Gurugram
+Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,2019,"39,903",Petrol,1st Owner,"15,171",₹7.76L,₹8.39L,Delhi
+Volkswagen,VIRTUS,COMFORTLINE TSI 1.0 MT,2022,"28,094",Petrol,1st Owner,"17,473",₹9.18L,₹10.87L,Delhi
+MG,HECTOR,SUPER 1.5 PETROL,2020,"27,061",Petrol,1st Owner,"21,604",₹11.35L,₹12.22L,Noida
+Volkswagen,VIRTUS,HIGHLINE TSI 1.0 AT,2023,"9,083",Petrol,1st Owner,"25,753",₹13.53L,₹14.57L,Gurugram
+Tata,PUNCH,ACCOMPLISHED MT,2022,"21,955",Petrol,1st Owner,"12,973",₹6.64L,₹7.12L,Noida
+Maruti,Eeco,5 STR WITH A/C+HTR,2019,"43,731",Petrol,1st Owner,"7,639",₹3.91L,₹4.20L,Delhi
+Mahindra,KUV 100 NXT,K2+ P 6 STR,2020,"19,376",Petrol,1st Owner,"8,837",₹4.52L,,Delhi
+Hyundai,Verna,FLUIDIC 1.6 VTVT EX,2013,"75,537",Petrol,1st Owner,"9,507",₹3.61L,₹3.83L,Noida
+Maruti,Swift,ZXI PLUS,2022,"24,626",Petrol,1st Owner,"14,792",₹7.57L,₹8.33L,Delhi
+Nissan,MAGNITE,XL,2022,"18,331",Petrol,1st Owner,"11,898",₹6.09L,₹6.65L,Noida
+Maruti,Celerio,VXI,2022,"12,708",Petrol,1st Owner,"9,658",₹4.94L,₹5.52L,Gurugram
+Nissan,MAGNITE,XE,2022,"36,341",Petrol,1st Owner,"10,772",₹5.51L,₹6.00L,Faridabad
+Tata,Harrier,XZ 2.0L DARK EDITION,2019,"56,690",Diesel,2nd Owner,"22,308",₹10.26L,₹11.40L,Noida
+Nissan,MAGNITE,XE,2021,"30,639",Petrol,1st Owner,"9,722",₹4.97L,₹5.78L,Ghaziabad
+Volkswagen,Polo,TRENDLINE 1.0L,2020,"33,419",Petrol,1st Owner,"10,166",₹5.20L,₹5.69L,Delhi
+Maruti,Wagon R 1.0,VXI+,2017,"60,446",Petrol,1st Owner,"6,823",₹3.49L,₹3.77L,Delhi
+Renault,Kwid,RXT 1.0 (O),2016,"20,709",Petrol,1st Owner,"4,946",₹2.53L,₹3.07L,Ghaziabad
+Hyundai,NEW SANTRO,SPORTZ MT,2019,"61,839",Petrol,2nd Owner,"7,761",₹3.97L,₹4.15L,Noida
+Maruti,Baleno,SIGMA PETROL 1.2,2020,"46,628",Petrol,1st Owner,"9,775",₹5.00L,₹5.70L,Faridabad
+Maruti,Alto K10,VXI,2023,"21,607",Petrol,1st Owner,"9,091",₹4.65L,₹5.09L,Delhi
+MG,HECTOR,SHARP 2.0 DIESEL,2019,"33,306",Diesel,1st Owner,"26,091",₹12.00L,₹13.50L,Delhi
+Hyundai,Creta,SX AT 1.6 DIESEL,2019,"67,168",Diesel,1st Owner,"22,547",₹10.37L,₹12.08L,Gurugram
+Maruti,Dzire,LXI,2018,"59,381",Petrol,1st Owner,"9,286",₹4.75L,₹5.13L,Noida
+Maruti,Baleno,ZETA PETROL 1.2,2020,"36,323",Petrol,2nd Owner,"11,985",₹6.13L,₹6.52L,Noida
+Hyundai,Tucson,2WD MT PETROL,2018,"43,368",Petrol,1st Owner,"22,850",₹12.01L,₹17.55L,Gurugram
+Maruti,Wagon R 1.0,VXI,2012,"75,057",Petrol,2nd Owner,"6,311",₹1.90L,,Gurugram
+Hyundai,Creta,S 1.4 DIESEL,2019,"51,977",Diesel,2nd Owner,"16,617",₹7.47L,₹8.77L,Ghaziabad
+Honda,Amaze,1.2L I-VTEC S,2018,"27,327",Petrol,1st Owner,"9,873",₹5.05L,₹6.00L,Gurugram
+Renault,Kiger,RXZ TURBO MT,2021,"46,377",Petrol,2nd Owner,"12,534",₹6.41L,₹7.91L,Noida
+KIA,SELTOS,HTK PLUS 1.5,2019,"90,594",Petrol,1st Owner,"16,869",₹8.86L,₹9.90L,Gurugram
+MG,HECTOR,SMART 1.5 DCT PETROL,2019,"14,172",Petrol,1st Owner,"23,412",₹12.30L,₹14.52L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2020,"27,841",Petrol,1st Owner,"11,368",₹5.81L,₹6.43L,Delhi
+Hyundai,Creta,SX 1.5 PETROL,2020,"51,961",Petrol,1st Owner,"22,118",₹11.62L,₹12.51L,Noida
+Tata,ALTROZ,XZ PETROL,2020,"30,608",Petrol,2nd Owner,"11,515",₹5.89L,₹6.51L,Noida
+KIA,SELTOS,HTK PLUS 1.5 IMT,2022,"51,566",Petrol,1st Owner,"20,695",₹10.87L,₹12.11L,Delhi
+Volkswagen,Polo,COMFORTLINE 1.0L MPI,2019,"68,763",Petrol,1st Owner,"10,225",₹5.23L,₹5.61L,Noida
+Maruti,S Cross,SIGMA 1.5,2022,"15,983",Petrol,1st Owner,"15,893",₹8.35L,₹9.16L,Faridabad
+Maruti,Baleno,ZETA PETROL 1.2,2020,"55,790",Petrol,1st Owner,"12,219",₹6.25L,₹7.01L,Ghaziabad
+Maruti,Alto,LXI,2021,"16,001",Petrol,1st Owner,"6,882",₹3.52L,₹3.86L,Ghaziabad
+Renault,TRIBER,RXT,2022,"13,196",Petrol,1st Owner,"12,317",₹6.30L,₹7.08L,Noida
+Honda,City,1.5L I-VTEC SV,2017,"1,03,049",Petrol,1st Owner,"13,398",₹6.02L,₹6.48L,Ghaziabad
+Maruti,Eeco,5 STR STD(O),2022,"7,147",Petrol,1st Owner,"8,661",₹4.43L,,Gurugram
+Nissan,MAGNITE,XV DUAL TONE,2022,"20,512",Petrol,1st Owner,"13,020",₹6.66L,₹7.15L,Delhi
+Maruti,Ciaz,ZETA AT 1.5  SHVS PETROL,2022,"21,566",Petrol,1st Owner,"17,949",₹9.43L,₹10.48L,Delhi
+KIA,SELTOS,HTX 1.5 PETROL,2019,"85,336",Petrol,1st Owner,"18,958",₹9.96L,₹11.14L,Delhi
+Maruti,Swift Dzire,LXI (O),2015,"36,067",Petrol,1st Owner,"7,234",₹3.70L,₹4.00L,Ghaziabad
+Maruti,Ciaz,VXI,2016,"60,548",Petrol,1st Owner,"9,048",₹4.63L,₹5.43L,Ghaziabad
+Ford,Ecosport,TITANIUM 1.5L DIESEL,2019,"49,417",Diesel,1st Owner,"14,414",₹6.48L,₹7.09L,Delhi
+Maruti,Baleno,ZETA CVT PETROL 1.2,2019,"15,895",Petrol,1st Owner,"14,017",₹7.17L,₹7.90L,Delhi
+Mahindra,XUV500,W5,2019,"46,055",Diesel,1st Owner,"20,660",₹9.50L,₹10.85L,Noida
+KIA,SONET,HTK PLUS 1.0 DCT,2021,"27,310",Petrol,1st Owner,"17,036",₹8.95L,₹9.95L,Delhi
+Maruti,Alto,LXI,2021,"8,945",Petrol,1st Owner,"6,686",₹3.42L,₹3.68L,Gurugram
+KIA,SONET,HTK PLUS 1.5,2020,"68,507",Diesel,1st Owner,"15,541",₹7.95L,,Ghaziabad
+Tata,NEXON,XZ PETROL,2021,"8,119",Petrol,1st Owner,"15,678",₹8.24L,₹9.29L,Ghaziabad
+MG,HECTOR,SMART 1.5 DCT PETROL,2019,"8,849",Petrol,1st Owner,"23,793",₹12.50L,₹13.90L,Delhi
+Hyundai,Creta,S 1.5 PETROL,2020,"80,554",Petrol,2nd Owner,"17,302",₹9.09L,₹10.07L,Noida
+KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2019,"51,955",Diesel,1st Owner,"26,634",₹12.25L,₹13.86L,Gurugram
+Tata,NEXON,XZ PLUS PETROL SUNROOF,2023,"24,415",Petrol,1st Owner,"18,444",₹9.69L,₹10.52L,Noida
+Maruti,Dzire,VXI,2018,"65,739",Petrol,1st Owner,"9,859",₹5.04L,₹5.31L,Ghaziabad
+Maruti,Swift,VXI,2022,"35,246",Petrol,1st Owner,"11,984",₹6.13L,₹6.64L,Gurugram
+Hyundai,Creta,SX 1.5 PETROL,2020,"61,464",Petrol,1st Owner,"21,623",₹11.36L,₹12.20L,Ghaziabad
+KIA,SELTOS,HTX 1.5 PETROL,2019,"32,251",Petrol,1st Owner,"19,571",₹10.28L,₹11.30L,Noida
+Maruti,Baleno,ALPHA 1.2 AGS,2022,"27,052",Petrol,1st Owner,"15,585",₹7.97L,,Ghaziabad
+KIA,SONET,HTK PLUS 1.0 IMT,2022,"22,078",Petrol,1st Owner,"16,959",₹8.91L,₹10.08L,Delhi
+Mahindra,Thar,LX PETROL HT 4WD AT,2021,"32,726",Petrol,1st Owner,"24,345",₹12.79L,₹14.20L,Delhi
+Jeep,Compass,LONGITUDE (O) 2.0 DIESEL,2019,"87,927",Diesel,1st Owner,"21,625",₹9.95L,₹13.85L,Delhi
+Hyundai,Creta,SX AT 1.6 PETROL,2019,"69,534",Petrol,1st Owner,"19,262",₹10.12L,₹11.21L,Delhi
+Honda,City,1.5L I-VTEC VX,2020,"35,169",Petrol,1st Owner,"16,866",₹8.86L,,Delhi
+Maruti,XL6,ALPHA PLUS  AT DUAL TONE,2022,"6,777",Petrol,1st Owner,"22,403",₹11.77L,₹13.75L,Gurugram
+Maruti,Baleno,ZETA PETROL 1.2,2019,"59,602",Petrol,2nd Owner,"10,694",₹5.47L,₹5.92L,Gurugram
+Maruti,Ciaz,ZETA 1.5 SHVS MT PETROL,2022,"35,483",Petrol,1st Owner,"15,269",₹7.81L,,Delhi
+Datsun,Redi Go,T,2021,"36,150",Petrol,1st Owner,"5,892",₹3.01L,₹4.06L,Delhi
+Renault,Duster,RXZ 1.3 TURBO PETROL MT,2021,"50,678",Petrol,1st Owner,"16,986",₹8.92L,₹10.67L,Gurugram
+Hyundai,Creta,SX PLUS 1.6 PETROL,2015,"1,02,963",Petrol,,"12,168",₹5.47L,,Faridabad
+Nissan,MAGNITE,XL,2021,"47,039",Petrol,1st Owner,"10,068",₹5.15L,₹5.80L,Ghaziabad
+Tata,Tiago,XZ PLUS PETROL,2020,"53,413",Petrol,1st Owner,"9,814",₹5.02L,₹6.03L,Delhi
+Renault,Duster,RXL PETROL,2013,"77,978",Petrol,,"7,821",₹2.97L,₹3.35L,Delhi
+Hyundai,AURA,SX+ 1.0 TURBO GDI MT,2020,"63,211",Petrol,1st Owner,"12,780",₹6.54L,₹7.40L,Noida
+Mahindra,XUV500,W5,2019,"56,279",Diesel,1st Owner,"20,178",₹9.28L,₹11.31L,Delhi
+Maruti,Baleno,ALPHA CVT PETROL 1.2,2020,"15,673",Petrol,1st Owner,"14,303",₹7.32L,₹9.48L,Delhi
+Hyundai,Creta,SX PLUS 1.6 PETROL,2016,"84,938",,2nd Owner,"15,148",₹6.81L,₹7.54L,Faridabad
+Volkswagen,Polo,COMFORTLINE 1.0L MPI,2018,"96,717",Petrol,2nd Owner,"9,329",₹4.77L,₹5.46L,Delhi
+Maruti,Vitara Brezza,VXI AT SHVS,2022,"17,941",Petrol,2nd Owner,"15,760",₹8.28L,,Noida
+KIA,SONET,GTX PLUS 1.0 IMT,2020,"37,438",Petrol,2nd Owner,"15,951",₹8.38L,₹9.40L,Gurugram
+KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,2019,"49,280",Petrol,1st Owner,"24,192",₹12.71L,,Delhi
+Tata,TIGOR,XZ PETROL,2018,"60,823",Petrol,1st Owner,"7,957",₹4.07L,₹4.37L,Faridabad
+Maruti,Wagon R 1.0,LXI CNG,2017,"81,370",,1st Owner,"6,706",₹3.43L,₹4.19L,Gurugram
+Mahindra,Thar,LX PETROL HT 4WD AT,2021,"30,914",Petrol,1st Owner,"24,554",₹12.90L,₹14.44L,Faridabad
+Mahindra,XUV500,W11 AT,2019,"36,660",Diesel,1st Owner,"26,343",₹12.12L,₹14.15L,Noida
+Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2021,"18,198",Petrol,1st Owner,"18,691",₹9.82L,₹11.04L,Delhi
+Tata,NEXON,XM SUNROOF PETROL,2022,"21,897",Petrol,1st Owner,"15,171",₹7.76L,₹8.45L,Noida
+Honda,Jazz,1.2L I-VTEC V,2019,"54,689",Petrol,1st Owner,"10,399",₹5.32L,₹6.07L,Delhi
+Tata,ALTROZ,XZ PETROL,2020,"38,781",Petrol,1st Owner,"11,875",₹6.07L,₹6.71L,Delhi
+Maruti,IGNIS,ALPHA 1.2 AMT,2021,"38,768",Petrol,1st Owner,"12,610",₹6.45L,₹7.03L,Delhi
+Renault,Kwid,RXL,2021,"32,589",Petrol,1st Owner,"6,651",₹3.40L,₹4.16L,Delhi
+KIA,SONET,HTX 1.0 IMT,2022,"29,811",Petrol,1st Owner,"19,095",₹10.03L,,Faridabad
+Volkswagen,Vento,HIGHLINE PLUS 1.2 AT 16 ALLOY,2018,"1,06,608",Petrol,1st Owner,"15,126",₹6.80L,₹7.70L,Delhi
+Hyundai,VENUE,SX 1.0 TURBO IMT,2021,"39,430",Petrol,1st Owner,"15,722",₹8.26L,₹9.55L,Noida
+Mahindra,Thar,LX  P 4WD AT CONVERTIBLE,2022,"29,244",Petrol,1st Owner,"25,091",₹13.18L,₹14.41L,Delhi
+Datsun,Go Plus,T(O),2019,"30,862",Petrol,1st Owner,"8,043",₹4.11L,₹4.95L,Delhi
+Maruti,Baleno,DELTA CVT PETROL 1.2,2019,"36,124",Petrol,1st Owner,"10,739",₹5.49L,₹6.36L,Ghaziabad
+Tata,Harrier,XZA PLUS 2.0L,2022,"27,543",Diesel,1st Owner,"32,510",₹17.08L,₹18.22L,Noida
+Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,2019,"66,198",Petrol,1st Owner,"12,441",₹6.36L,₹7.25L,Noida
+Maruti,Wagon R 1.0,LXI CNG,2017,"1,10,029",,1st Owner,"6,785",₹3.05L,₹3.52L,Delhi
+Maruti,Alto,VXI,2021,"9,171",Petrol,2nd Owner,"7,058",₹3.61L,₹3.99L,Delhi
+Tata,NEXON,XZA PLUS PETROL,2019,"61,470",Petrol,1st Owner,"13,802",₹7.06L,₹7.60L,Faridabad
+Honda,Amaze,1.2L I-VTEC S,2015,"45,157",Petrol,1st Owner,"6,315",₹3.23L,₹3.56L,Noida
+Tata,NEXON,XZA PLUS PETROL,2022,"13,124",Petrol,1st Owner,"18,197",₹9.56L,₹10.80L,Noida
+Maruti,Ciaz,ALPHA  AT 1.4  PETROL,2017,"90,303",,2nd Owner,"11,652",₹5.96L,₹6.60L,Gurugram
+Nissan,MAGNITE,XV PREMIUM,2022,"28,922",Petrol,1st Owner,"13,529",₹6.92L,₹7.66L,Gurugram
+Hyundai,Creta,BASE 1.6 PETROL,2016,"45,608",Petrol,1st Owner,"12,805",₹6.55L,₹7.25L,Noida
+Tata,TIGOR,XE PETROL,2021,"24,927",Petrol,1st Owner,"9,873",₹5.05L,₹5.52L,Delhi
+Maruti,Swift,LXI (O),2017,"61,039",Petrol,1st Owner,"7,918",₹4.05L,₹4.36L,Gurugram
+Jeep,Compass,SPORT PLUS 1.4 PETROL,2019,"59,431",Petrol,1st Owner,"20,828",₹10.94L,₹12.21L,Delhi
+Maruti,IGNIS,ZETA 1.2 AMT,2022,"36,051",Petrol,1st Owner,"12,825",₹6.56L,₹7.04L,Gurugram
+Tata,NEXON,XZ PETROL,2022,"16,781",Petrol,1st Owner,"15,912",₹8.36L,₹9.10L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2019,"47,920",,2nd Owner,"10,401",₹5.32L,₹5.77L,Gurugram
+Tata,NEXON,XZA PLUS DIESEL DARK EDITION,2022,"19,703",Diesel,1st Owner,"18,844",₹9.90L,₹11.14L,Faridabad
+Renault,Kwid,RXT 0.8,2020,"62,100",Petrol,1st Owner,"6,823",₹3.49L,₹3.77L,Ghaziabad
+Nissan,MAGNITE,XL,2021,"39,044",,1st Owner,"11,320",₹5.79L,₹6.39L,Faridabad
+MG,HECTOR,SHARP 1.5 DCT PETROL,2020,"50,365",Petrol,2nd Owner,"23,222",₹12.20L,₹14.29L,Delhi
+Hyundai,i20,SPORTZ 1.2,2014,"78,713",Petrol,1st Owner,"6,584",₹2.96L,₹3.68L,Delhi
+Tata,TIGOR,XZ PLUS PETROL,2020,"38,660",Petrol,2nd Owner,"9,384",₹4.80L,₹5.65L,Gurugram
+Hyundai,NEW SANTRO,SPORTZ MT,2019,"49,352",Petrol,1st Owner,"7,918",₹4.05L,₹5.06L,Delhi
+Ford,Ecosport,TITANIUM 1.5L PETROL,2018,"99,535",Petrol,1st Owner,"10,968",₹5.61L,₹6.31L,Delhi
+Renault,Kwid,CLIMBER 1.0 (O) DUAL TONE,2022,"26,313",Petrol,1st Owner,"8,543",₹4.37L,₹4.93L,Ghaziabad
+Renault,Kwid,RXT 0.8,2019,"66,883",Petrol,1st Owner,"6,639",₹3.40L,₹3.92L,Delhi
+KIA,SONET,HTK 1.5,2022,"23,502",Diesel,1st Owner,"17,450",₹9.17L,₹9.97L,Delhi
+Maruti,Swift Dzire,LXI,2013,"36,578",Petrol,1st Owner,"8,111",₹3.08L,₹3.63L,Noida
+KIA,SONET,HTX 1.5,2021,"28,521",Diesel,1st Owner,"18,163",₹9.54L,₹10.18L,Gurugram
+Hyundai,Verna,FLUIDIC 4S 1.6 VTVT S,2015,"1,02,445",Petrol,2nd Owner,"10,440",₹4.69L,,Faridabad
+Hyundai,Creta,E PLUS 1.6 PETROL,2018,"48,114",Petrol,1st Owner,"14,917",₹7.63L,₹8.23L,Noida
+Maruti,Dzire,VXI,2020,"1,08,051",Petrol,2nd Owner,"11,434",₹5.14L,₹5.63L,Gurugram
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2020,"56,217",Petrol,1st Owner,"10,129",₹5.18L,₹5.53L,Noida
+Ford,Ecosport,TITANIUM 1.5L PETROL,2018,"70,577",Petrol,1st Owner,"12,453",₹6.37L,₹6.77L,Ghaziabad
+Maruti,Wagon R 1.0,VXI+ AMT,2017,"40,144",Petrol,1st Owner,"7,058",₹3.61L,₹3.98L,Ghaziabad
+Hyundai,Xcent,S 1.2,2018,"60,152",,1st Owner,"9,638",₹4.93L,₹5.71L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2021,"18,717",Petrol,2nd Owner,"11,456",₹5.86L,,Noida
+Hyundai,Verna,FLUIDIC 1.6 VTVT EX,2013,"1,08,809",Petrol,1st Owner,"9,823",₹3.73L,₹3.95L,Gurugram
+Maruti,Baleno,DELTA PETROL 1.2,2019,"65,533",Petrol,1st Owner,"9,638",₹4.93L,₹5.45L,Faridabad
+Maruti,Swift,ZXI,2017,"68,334",Petrol,1st Owner,"8,993",₹4.60L,₹5.24L,Noida
+Tata,PUNCH,CREATIVE  1.2 RTN DUAL TONE,2022,"20,869",Petrol,1st Owner,"14,291",₹7.31L,₹8.44L,Gurugram
+Tata,TIGOR,XZ PLUS PETROL,2020,"17,280",Petrol,1st Owner,"12,180",₹6.23L,₹7.23L,Faridabad
+Volkswagen,Vento,HIGHLINE PLUS 1.2 AT,2019,"30,952",Petrol,1st Owner,"19,698",₹10.35L,₹12.28L,Ghaziabad
+Mahindra,XUV500,W7 AT,2019,"36,879",Diesel,2nd Owner,"21,856",₹10.05L,₹12.54L,Delhi
+Honda,City,1.5L I-VTEC VX CVT,2016,"68,957",Petrol,1st Owner,"13,138",₹6.72L,₹7.06L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2019,"65,056",Petrol,2nd Owner,"10,172",₹5.20L,₹5.89L,Gurugram
+Honda,City,1.5L I-VTEC VX CVT,2014,"69,403",Petrol,1st Owner,"11,817",₹5.31L,₹6.11L,Delhi
+Maruti,Swift,VXI ABS,2016,"40,875",Petrol,1st Owner,"9,270",₹4.74L,₹5.04L,Faridabad
+Maruti,Baleno,ZETA CVT PETROL 1.2,2019,"23,024",Petrol,2nd Owner,"11,847",₹6.06L,₹7.45L,Ghaziabad
+Mahindra,XUV500,W9,2019,"46,842",Diesel,1st Owner,"23,419",₹10.77L,₹12.45L,Ghaziabad
+Maruti,Swift Dzire,VXI,2013,"82,487",Petrol,2nd Owner,"7,057",₹2.68L,₹3.01L,Delhi
+Maruti,Wagon R 1.0,VXI,2016,"1,21,606",Petrol,1st Owner,"6,251",₹2.81L,₹3.04L,Gurugram
+Honda,City,1.5L I-VTEC VX,2016,"56,424",Petrol,2nd Owner,"11,318",₹5.79L,₹6.59L,Delhi
+Tata,Tiago,XT CNG,2022,"14,180",,1st Owner,"11,593",₹5.93L,₹6.92L,Noida
+Renault,TRIBER,RXT,2022,"7,070",Petrol,1st Owner,"11,926",₹6.10L,₹6.54L,Gurugram
+Hyundai,Creta,E PLUS 1.6 PETROL,2018,"60,193",Petrol,1st Owner,"14,917",₹7.63L,₹8.19L,Delhi
+Volkswagen,Vento,HIGHLINE PLUS 1.2 AT 16 ALLOY,2019,"58,082",Petrol,1st Owner,"15,703",₹8.25L,₹10.08L,Faridabad
+Hyundai,VENUE,SX 1.0 TURBO,2021,"29,239",Petrol,2nd Owner,"16,312",₹8.57L,₹9.59L,Delhi
+Maruti,S PRESSO,LXI,2020,"30,886",Petrol,1st Owner,"6,725",₹3.44L,₹3.92L,Ghaziabad
+Honda,Jazz,1.2L I-VTEC V AT,2017,"95,825",Petrol,2nd Owner,"9,208",₹4.71L,₹5.26L,Delhi
+Renault,TRIBER,RXZ AMT,2023,"21,044",Petrol,1st Owner,"13,470",₹6.89L,₹7.82L,Delhi
+Ford,Ecosport,TITANIUM 1.5L DIESEL,2019,"78,701",Diesel,1st Owner,"15,148",₹6.81L,₹7.52L,Noida
+Hyundai,Xcent,SX 1.2,2014,"57,642",Petrol,1st Owner,"7,185",₹3.23L,₹3.88L,Ghaziabad
+Renault,TRIBER,RXZ,2023,"14,050",Petrol,1st Owner,"13,347",₹6.83L,₹8.04L,Faridabad
+Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2018,"51,690",Petrol,1st Owner,"12,590",₹6.44L,₹7.05L,Faridabad
+Maruti,Baleno,SIGMA PETROL 1.2,2021,"20,770",Petrol,1st Owner,"11,231",₹5.74L,₹6.11L,Ghaziabad
+Hyundai,Elite i20,SPORTZ 1.2,2016,"84,904",Petrol,1st Owner,"8,016",₹4.10L,₹5.16L,Delhi
+Hyundai,Creta,SX AT 1.6 PETROL,2019,"47,435",Petrol,1st Owner,"19,396",₹10.19L,₹11.29L,Gurugram
+Maruti,Baleno,DELTA PETROL 1.2,2018,"35,508",Petrol,1st Owner,"9,931",₹5.08L,₹5.52L,Gurugram
+Tata,Tiago,XT PETROL,2021,"38,180",Petrol,1st Owner,"9,404",₹4.81L,₹5.44L,Gurugram
+Maruti,Swift Dzire,VXI,2014,"49,203",Petrol,2nd Owner,"7,363",₹3.31L,₹3.65L,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2021,"25,828",Petrol,1st Owner,"12,557",₹6.42L,₹7.07L,Gurugram
+Mahindra,XUV300,W4 1.5 DIESEL,2019,"22,027",Diesel,2nd Owner,"15,396",₹6.92L,₹7.89L,Noida
+KIA,SONET,HTK PLUS 1.0 IMT,2022,"15,670",Petrol,1st Owner,"16,940",₹8.90L,₹9.87L,Gurugram
+Hyundai,i20,SPORTZ 1.2,2014,"33,505",Petrol,1st Owner,"8,664",₹3.89L,,Ghaziabad
+Maruti,Ciaz,VXI+,2015,"41,406",Petrol,1st Owner,"9,032",₹4.62L,₹5.15L,Delhi
+Maruti,Ciaz,ALPHA 1.4 PETROL,2017,"43,872",Petrol,1st Owner,"12,143",₹6.21L,₹6.95L,Noida
+Hyundai,Creta,SX PLUS AT 1.6 PETROL,2017,"76,058",Petrol,2nd Owner,"15,582",₹7.97L,₹8.28L,Ghaziabad
+Maruti,IGNIS,ALPHA 1.2,2018,"31,802",Petrol,1st Owner,"10,199",₹5.22L,₹6.05L,Faridabad
+Maruti,Baleno,ZETA PETROL 1.2,2017,"33,827",Petrol,2nd Owner,"9,521",₹4.87L,₹5.45L,Ghaziabad
+KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2021,"66,666",Diesel,1st Owner,"26,362",₹13.85L,₹14.76L,Noida
+Maruti,Celerio,ZXI AMT,2019,"74,343",Petrol,1st Owner,"7,859",₹4.02L,₹4.66L,Noida
+Renault,Kwid,RXT 1.0,2022,"15,362",Petrol,1st Owner,"7,969",₹4.08L,₹5.24L,Delhi
+Tata,Tiago,XZ PLUS CNG,2022,"36,087",,1st Owner,"12,942",₹6.62L,₹7.74L,Delhi
+Tata,NEXON EV,XZ PLUS,2020,"46,305",,1st Owner,"20,937",₹11.00L,,Noida
+Renault,Kwid,RXT 1.0 (O),2019,"34,562",Petrol,1st Owner,"7,112",₹3.64L,₹3.95L,Delhi
+Hyundai,Xcent,S 1.2,2019,"41,326",Petrol,1st Owner,"9,306",₹4.76L,₹5.29L,Delhi
+Maruti,Ciaz,VXI+,2015,"1,19,079",Petrol,1st Owner,"9,289",₹4.18L,₹4.53L,Ghaziabad
+Maruti,New Wagon-R,VXI 1.0 AMT,2020,"41,307",Petrol,2nd Owner,"8,915",₹4.56L,₹5.20L,Ghaziabad
+Maruti,Baleno,ZETA PETROL 1.2,2020,"31,912",Petrol,1st Owner,"12,004",₹6.14L,₹6.94L,Gurugram
+Nissan,MAGNITE,XV PREMIUM TURBO,2022,"26,583",Petrol,1st Owner,"15,249",₹7.80L,₹9.38L,Gurugram
+Tata,Tiago,XZ PLUS PETROL,2021,"19,905",Petrol,1st Owner,"10,838",₹5.54L,₹6.06L,Noida
+Maruti,Ciaz,VXI,2015,"56,213",Petrol,1st Owner,"9,618",₹4.92L,₹5.28L,Noida
+Renault,TRIBER,RXL MT,2022,"21,089",Petrol,1st Owner,"11,981",₹6.13L,₹6.29L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2020,"60,770",Petrol,1st Owner,"10,479",₹5.36L,₹6.01L,Delhi
+Hyundai,Creta,SX (O) 1.4 TURBO DCT,2020,"57,541",Petrol,1st Owner,"25,620",₹13.46L,₹15.00L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2020,"38,558",Petrol,1st Owner,"11,766",₹6.02L,₹6.71L,Noida
+Maruti,S PRESSO,VXI+,2020,"30,057",Petrol,1st Owner,"7,234",₹3.70L,₹4.47L,Noida
+Maruti,Baleno,ZETA PETROL 1.2,2021,"39,810",Petrol,1st Owner,"12,297",₹6.29L,₹7.17L,Gurugram
+Maruti,Baleno,DELTA PETROL 1.2,2021,"20,322",Petrol,1st Owner,"12,082",₹6.18L,₹6.55L,Ghaziabad
+Honda,Brio,VX MT,2015,"96,395",Petrol,1st Owner,"5,689",₹2.91L,₹3.34L,Ghaziabad
+Mahindra,XUV300,W8 (O) 1.2 PETROL,2019,"56,920",Petrol,2nd Owner,"13,900",₹7.11L,₹8.01L,Noida
+Hyundai,Xcent,S 1.2,2018,"90,833",,1st Owner,"8,602",₹4.40L,₹4.71L,Gurugram
+Hyundai,Creta,SX PLUS AT 1.6 PETROL,2016,"1,01,240",Petrol,1st Owner,"15,173",₹6.82L,₹7.75L,Delhi
+Mahindra,XUV500,W9,2019,"42,625",Diesel,2nd Owner,"21,808",₹10.03L,₹10.92L,Noida
+Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2019,"72,340",Petrol,1st Owner,"16,695",₹8.77L,₹9.46L,Delhi
+Hyundai,Creta,SX PLUS AT 1.6 PETROL,2018,"86,490",Petrol,1st Owner,"15,456",₹8.12L,₹9.89L,Gurugram
+Maruti,Baleno,ZETA PETROL 1.2,2020,"35,495",Petrol,1st Owner,"12,805",₹6.55L,₹7.50L,Delhi
+Maruti,Baleno,ZETA PETROL 1.2,2020,"17,458",Petrol,1st Owner,"13,542",₹6.93L,₹7.60L,Delhi
+Honda,City,1.5L I-VTEC VX CVT,2016,"30,591",Petrol,1st Owner,"13,978",₹7.15L,₹7.44L,Noida
+Hyundai,Elite i20,SPORTZ 1.2,2017,"47,403",Petrol,2nd Owner,"9,501",₹4.86L,,Ghaziabad
+Maruti,Ritz,VXI,2011,"43,564",Petrol,1st Owner,"7,861",₹1.67L,₹1.90L,Noida
+Maruti,S PRESSO,VXI+,2020,"18,520",Petrol,1st Owner,"7,649",₹3.91L,₹4.65L,Gurugram
+Mahindra,XUV300,W8 (O) 1.2 PETROL,2023,"12,061",Petrol,1st Owner,"21,038",₹11.05L,₹12.23L,Ghaziabad
+Hyundai,Creta,SX PLUS AT 1.6 PETROL,2017,"41,973",Petrol,1st Owner,"15,269",₹7.81L,,Gurugram
+Hyundai,VENUE,SX 1.0 TURBO,2020,"49,759",Petrol,1st Owner,"15,015",₹7.68L,₹8.68L,Noida
+Honda,Amaze,1.2L I-VTEC S,2014,"77,579",Petrol,1st Owner,"6,495",₹2.92L,₹3.28L,Noida
+Renault,Kwid,CLIMBER 1.0 (O),2022,"15,517",Petrol,1st Owner,"8,446",₹4.32L,₹5.09L,Delhi
+Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2016,"97,523",Petrol,1st Owner,"7,739",₹3.96L,₹4.86L,Ghaziabad
+Tata,NEXON,XZA PLUS PETROL,2021,"36,520",Petrol,1st Owner,"16,451",₹8.64L,₹10.34L,Ghaziabad
+Hyundai,Creta,E PLUS 1.6 PETROL,2017,"83,253",Petrol,1st Owner,"12,418",₹6.35L,₹7.20L,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2017,"84,098",Petrol,1st Owner,"7,937",₹4.06L,₹4.49L,Gurugram
+Hyundai,NEW SANTRO,MAGNA CNG,2019,"75,012",,1st Owner,"8,367",₹4.28L,₹4.73L,Delhi
+Honda,City,1.5L I-VTEC VX,2016,"91,443",Petrol,2nd Owner,"11,398",₹5.83L,₹6.51L,Ghaziabad
+Maruti,Celerio,ZXI AMT (O),2017,"43,628",Petrol,1st Owner,"8,583",₹4.39L,₹4.92L,Gurugram
+Maruti,Swift,VXI,2011,"28,827",Petrol,1st Owner,"10,513",₹2.23L,₹2.82L,Ghaziabad
+Honda,Brio,VX MT,2013,"79,123",Petrol,2nd Owner,"7,347",₹2.79L,₹2.86L,Faridabad
+Maruti,Ciaz,ZETA 1.4  AT PETROL,2017,"91,712",Petrol,1st Owner,"11,643",₹5.96L,₹6.76L,Delhi
+Maruti,S PRESSO,VXI+,2022,"12,709",Petrol,1st Owner,"9,088",₹4.65L,₹5.61L,Ghaziabad
+Tata,Tiago,XT CNG,2022,"20,013",,1st Owner,"11,593",₹5.93L,₹7.22L,Gurugram
+Maruti,Dzire,ZXI AMT,2019,"80,249",Petrol,1st Owner,"11,124",₹5.69L,₹6.23L,Delhi
+Maruti,Celerio,VXI AMT,2017,"29,917",Petrol,1st Owner,"7,976",₹4.08L,₹4.37L,Gurugram
+Maruti,S PRESSO,LXI,2020,"39,683",Petrol,1st Owner,"6,731",₹3.44L,₹4.03L,Noida
+Maruti,Swift Dzire,VXI,2012,"54,388",Petrol,1st Owner,"9,134",₹2.75L,₹3.15L,Delhi
+Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,2022,"13,367",Petrol,1st Owner,"20,995",₹11.03L,₹12.24L,Faridabad
+Maruti,Baleno,DELTA PETROL 1.2,2021,"33,988",Petrol,1st Owner,"11,808",₹6.04L,₹7.05L,Ghaziabad
+Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2018,"95,908",Petrol,1st Owner,"11,828",₹6.05L,₹6.91L,Noida
+Maruti,XL6,ZETA AT,2019,"54,342",Petrol,1st Owner,"15,989",₹8.40L,₹9.21L,Gurugram
+Tata,TIGOR,XZ PLUS CNG,2022,"39,086",,1st Owner,"13,529",₹6.92L,₹8.11L,Gurugram
+MG,HECTOR,SHARP 2.0 DIESEL,2021,"64,704",Diesel,1st Owner,"26,438",₹13.89L,₹16.10L,Gurugram
+Maruti,Baleno,DELTA CVT PETROL 1.2,2018,"70,318",Petrol,1st Owner,"9,658",₹4.94L,₹5.76L,Ghaziabad
+Hyundai,GRAND I10 NIOS,MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,2020,"20,631",Petrol,2nd Owner,"10,088",₹5.16L,₹5.80L,Delhi
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2014,"92,751",Petrol,1st Owner,"6,562",₹2.95L,₹3.42L,Noida
+Maruti,Baleno,DELTA PETROL 1.2,2015,"69,308",Petrol,1st Owner,"7,761",₹3.97L,₹4.53L,Delhi
+Maruti,Wagon R 1.0,VXI,2014,"66,201",Petrol,2nd Owner,"5,561",₹2.50L,₹2.60L,Ghaziabad
+Tata,NEXON,XM PETROL,2022,"30,785",Petrol,2nd Owner,"14,233",₹7.28L,₹7.98L,Noida
+Honda,City,1.5L I-VTEC V MT,2014,"50,829",Petrol,1st Owner,"10,516",₹4.73L,₹5.69L,Gurugram
+Toyota,Etios,V,2011,"83,914",Petrol,1st Owner,"9,085",₹1.93L,₹2.38L,Delhi
+Renault,Kwid,CLIMBER 1.0 (O),2020,"35,934",Petrol,1st Owner,"7,410",₹3.79L,₹4.50L,Ghaziabad
+Maruti,Celerio,ZXI AMT (O),2017,"41,900",Petrol,1st Owner,"7,410",₹3.79L,₹4.11L,Ghaziabad
+Renault,Kwid,CLIMBER 1.0 AMT (O),2020,"21,527",Petrol,2nd Owner,"7,970",₹4.08L,₹4.82L,Delhi
+Maruti,New Wagon-R,LXI CNG (O) 1.0,2019,"65,818",,1st Owner,"9,189",₹4.70L,₹5.03L,Ghaziabad
+Hyundai,Xcent,SX 1.2,2014,"60,133",Petrol,2nd Owner,"7,897",₹3.55L,₹3.84L,Gurugram
+Maruti,Baleno,ZETA CVT PETROL 1.2,2017,"40,326",Petrol,2nd Owner,"10,029",₹5.13L,₹5.50L,Delhi
+Tata,NEXON,XZ PLUS PETROL,2022,"14,073",Petrol,1st Owner,"17,435",₹9.16L,₹10.02L,Delhi
+Honda,Amaze,1.2L I-VTEC S,2015,"96,057",Petrol,1st Owner,"6,158",₹3.15L,₹3.24L,Gurugram
+Maruti,Baleno,ZETA CVT PETROL 1.2,2018,"37,072",Petrol,1st Owner,"11,404",₹5.83L,₹6.90L,Noida
+Mahindra,XUV300,W8 (O) 1.2 PETROL,2020,"31,731",Petrol,1st Owner,"15,532",₹8.16L,₹8.94L,Gurugram
+Hyundai,Creta,EX 1.6 PETROL,2019,"19,584",Petrol,1st Owner,"16,217",₹8.52L,₹9.66L,Gurugram
+Tata,NEXON,XZ PLUS PETROL SUNROOF,2022,"42,572",Petrol,1st Owner,"17,416",₹9.15L,₹10.25L,Ghaziabad
+Mahindra,XUV300,W8 1.5 DIESEL AMT,2020,"64,788",Diesel,1st Owner,"16,464",₹8.65L,₹9.62L,Gurugram
+Maruti,New Wagon-R,LXI CNG (O) 1.0,2020,"67,693",,1st Owner,"9,365",₹4.79L,₹5.62L,Faridabad
+Maruti,New Wagon-R,LXI 1.0,2022,"24,944",Petrol,1st Owner,"9,521",₹4.87L,₹5.54L,Gurugram
+Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,2016,"25,133",Petrol,2nd Owner,"7,966",₹4.07L,₹4.62L,Faridabad
+Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,2021,"16,895",Petrol,1st Owner,"20,240",₹10.63L,₹12.05L,Gurugram
+Renault,Kwid,CLIMBER 1.0 AMT (O),2020,"25,020",Petrol,1st Owner,"8,293",₹4.24L,₹5.20L,Ghaziabad
+Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2015,"80,208",Petrol,2nd Owner,"8,142",₹4.16L,,Gurugram
+Maruti,Swift,LXI (O),2017,"58,539",Petrol,1st Owner,"8,094",₹4.14L,₹4.36L,Faridabad
+Maruti,Ciaz,ALPHA 1.4 PETROL,2017,"60,227",Petrol,1st Owner,"11,202",₹5.73L,₹6.35L,Delhi
+Nissan,MAGNITE,XL,2022,"15,128",Petrol,1st Owner,"12,051",₹6.16L,₹6.90L,Delhi
+Toyota,Etios,G,2015,"94,994",Petrol,1st Owner,"6,092",₹3.12L,₹4.06L,Ghaziabad
+Maruti,Celerio,ZXI AMT (O),2016,"47,586",Petrol,1st Owner,"7,957",₹4.07L,₹4.42L,Ghaziabad
+Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2016,"72,649",Petrol,1st Owner,"7,740",₹3.96L,₹4.96L,Gurugram
+Maruti,S PRESSO,VXI+,2020,"43,161",Petrol,2nd Owner,"7,189",₹3.68L,₹4.09L,Ghaziabad
+Maruti,Baleno,DELTA CVT PETROL 1.2,2018,"94,466",Petrol,1st Owner,"9,097",₹4.65L,₹5.82L,Delhi
+Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2019,"46,706",Petrol,1st Owner,"13,465",₹6.89L,₹7.47L,Ghaziabad
+Honda,City,1.5L I-VTEC V MT,2015,"61,134",Petrol,1st Owner,"10,770",₹5.51L,₹6.06L,Ghaziabad
+Mahindra,XUV300,W8 (O) 1.2 PETROL,2019,"48,044",Petrol,1st Owner,"15,535",₹7.95L,₹9.07L,Ghaziabad
+Maruti,New Wagon-R,LXI 1.0,2020,"64,042",Petrol,1st Owner,"8,524",₹4.36L,₹4.82L,Gurugram
+Tata,NEXON,XZ PLUS PETROL SUNROOF,2021,"29,284",Petrol,1st Owner,"17,150",₹9.01L,₹9.77L,Delhi
+Hyundai,i10,MAGNA 1.2,2011,"65,182",Petrol,2nd Owner,"9,132",₹1.94L,,Gurugram
+Mahindra,XUV500,W11 AT,2019,"53,206",Diesel,2nd Owner,"25,286",₹11.63L,₹12.90L,Noida
+Mahindra,XUV300,W8(O) 1.2 PETROL DUAL TONE,2021,"12,532",Petrol,1st Owner,"18,866",₹9.91L,₹11.69L,Delhi
+Maruti,Baleno,ZETA CVT PETROL 1.2,2017,"36,754",Petrol,1st Owner,"10,174",₹5.20L,₹6.16L,Delhi
+Maruti,S PRESSO,VXI+,2021,"12,127",Petrol,1st Owner,"8,323",₹4.26L,₹4.69L,Noida
+Hyundai,i20,SPORTZ 1.2,2011,"99,718",Petrol,1st Owner,"9,980",₹2.12L,₹2.18L,Ghaziabad
+Tata,TIGOR,XZ PLUS CNG,2022,"37,629",,1st Owner,"13,859",₹7.09L,₹8.48L,Ghaziabad
+Maruti,Ciaz,VXI+,2015,"94,945",Petrol,1st Owner,"8,987",₹4.60L,₹5.20L,Ghaziabad
+Maruti,Ciaz,ALPHA DIESEL 1.5,2019,"92,522",Diesel,,"15,305",₹6.88L,₹8.82L,Gurugram
+Maruti,Baleno,ALPHA PETROL 1.2,2019,"41,726",Petrol,1st Owner,"12,381",₹6.33L,₹7.04L,Ghaziabad
+Honda,Amaze,1.2L I-VTEC S,2019,"70,903",,2nd Owner,"9,931",₹5.08L,₹6.26L,Gurugram
+Maruti,Swift,ZXI,2019,"43,834",Petrol,1st Owner,"10,948",₹5.60L,₹6.07L,Gurugram
+Tata,ALTROZ,XM PLUS PETROL,2021,"43,510",Petrol,2nd Owner,"11,054",₹5.65L,₹6.56L,Gurugram
+Toyota,URBAN CRUISER,MID GRADE MT,2022,"28,970",Petrol,1st Owner,"15,601",₹7.98L,₹8.87L,Delhi
+Maruti,BREZZA,ZXI SMART HYBRID,2023,"7,048",Petrol,1st Owner,"20,976",₹11.02L,,Noida
+Maruti,Vitara Brezza,VXI AT SHVS,2020,"30,949",Petrol,1st Owner,"15,003",₹7.67L,₹8.79L,Delhi
+MG,HECTOR,SUPER 1.5 PETROL,2020,"67,143",Petrol,1st Owner,"18,311",₹9.62L,₹10.70L,Noida
+Hyundai,Santro Xing,GLS,2013,"59,939",Petrol,1st Owner,"4,714",₹1.79L,₹1.97L,Noida
+Tata,ALTROZ,XM PLUS PETROL,2021,"49,461",Petrol,1st Owner,"11,652",₹5.96L,₹6.68L,Delhi
+Maruti,Ciaz,VXI+,2015,"45,419",Petrol,1st Owner,"8,786",₹4.49L,₹4.97L,Gurugram
+Honda,Amaze,1.2L I-VTEC S,2022,"10,819",Petrol,1st Owner,"13,275",₹6.79L,₹7.19L,Delhi
+Jeep,Compass,LIMITED PLUS DIESEL 4X4,2019,"36,815",Diesel,1st Owner,"28,722",₹13.21L,₹16.58L,Gurugram
+Honda,Amaze,1.2L I-VTEC S CVT,2018,"49,660",Petrol,2nd Owner,"10,379",₹5.31L,₹6.49L,Noida
+Tata,ALTROZ,XT PETROL,2020,"44,696",Petrol,1st Owner,"11,082",₹5.67L,₹6.50L,Faridabad
+Maruti,Alto K10,LXI,2013,"19,828",Petrol,1st Owner,"5,425",₹2.06L,₹2.35L,Gurugram
+Hyundai,i20 Active,1.2 SX,2015,"51,176",Petrol,1st Owner,"8,880",₹4.54L,₹4.99L,Noida
+Renault,TRIBER,RXL MT,2022,"36,809",Petrol,2nd Owner,"11,339",₹5.80L,₹6.88L,Noida
+Tata,NEXON,XZA PLUS DIESEL,2022,"34,248",Diesel,1st Owner,"20,100",₹10.56L,₹11.57L,Gurugram
+Hyundai,Verna,S PLUS 1.5 CRDI,2021,"27,306",Diesel,1st Owner,"17,987",₹9.45L,,Delhi
+Hyundai,i20,SPORTZ 1.2,2014,"54,276",Petrol,1st Owner,"7,541",₹3.39L,₹3.74L,Noida
+Tata,NEXON,XZ PLUS DIESEL SUNROOF,2020,"25,672",Diesel,1st Owner,"15,589",₹8.19L,₹9.96L,Gurugram
+Maruti,Swift,LXI (O),2017,"88,225",,1st Owner,"7,566",₹3.87L,₹4.15L,Delhi
+Mahindra,XUV500,W9 AT,2019,"47,775",Diesel,2nd Owner,"23,845",₹10.97L,₹14.21L,Noida
+Maruti,Baleno,ALPHA CVT PETROL 1.2,2019,"48,095",Petrol,2nd Owner,"11,769",₹6.02L,₹6.99L,Ghaziabad
+Maruti,Baleno,ZETA CVT PETROL 1.2,2021,"39,335",Petrol,2nd Owner,"13,705",₹7.01L,₹8.14L,Gurugram
+Honda,Jazz,1.2L I-VTEC V,2018,"45,060",Petrol,1st Owner,"9,736",₹4.98L,₹6.26L,Ghaziabad
+Tata,NEXON,XZA PLUS SUNROOF PETROL,2021,"43,545",Petrol,1st Owner,"16,666",₹8.76L,,Noida
+Toyota,Etios,VX,2011,"71,433",Petrol,1st Owner,"9,942",₹2.11L,₹2.49L,Delhi
+Maruti,Baleno,ZETA PETROL 1.2,2020,"58,661",Petrol,1st Owner,"11,867",₹6.07L,₹6.75L,Ghaziabad
+Honda,Amaze,1.2L I-VTEC VX,2015,"1,15,667",Petrol,1st Owner,"7,608",₹3.42L,₹3.77L,Delhi
+Maruti,Dzire,LXI,2019,"29,453",Petrol,1st Owner,"9,619",₹4.92L,₹5.49L,Delhi
+Datsun,Redi Go,T(O) 1.0,2020,"39,864",Petrol,1st Owner,"6,432",₹3.29L,₹3.78L,Noida
+Maruti,Ertiga,VXI CNG,2014,"97,426",,1st Owner,"17,614",₹5.30L,₹5.87L,Delhi
+Hyundai,i10,SPORTZ 1.2,2012,"65,885",Petrol,2nd Owner,"6,809",₹2.05L,₹2.14L,Noida
+Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2013,"52,006",Petrol,1st Owner,"8,084",₹3.07L,,Noida
+Honda,City,1.5L I-VTEC V MT 4TH GEN,2021,"29,353",Petrol,1st Owner,"16,826",₹8.84L,₹9.11L,Noida
+Hyundai,i10,ERA 1.1,2013,"44,757",Petrol,2nd Owner,"5,496",₹2.09L,,Delhi
+Honda,City,1.5L I-VTEC V MT,2015,"77,968",,1st Owner,"13,667",₹5.19L,₹5.65L,Noida
+Maruti,Swift,VXI,2015,"52,828",Petrol,1st Owner,"6,725",₹3.44L,₹3.52L,Noida
+Tata,NEXON EV,XZ PLUS,2022,"56,891",,1st Owner,"24,192",₹12.71L,₹13.50L,Noida
+Tata,Tiago,XZ PLUS PETROL,2020,"80,040",Petrol,1st Owner,"9,580",₹4.90L,₹5.73L,Noida
+Honda,Amaze,1.2L I-VTEC S,2019,"89,343",Petrol,1st Owner,"9,931",₹5.08L,₹6.53L,Noida
+Maruti,Celerio,VXI AMT,2014,"1,02,580",Petrol,1st Owner,"6,478",₹2.91L,,Noida
+KIA,CARENS,LUXURY PLUS 1.4 PETROL 7 STR,2022,"17,103",Petrol,2nd Owner,"27,219",₹14.30L,₹14.41L,Noida
+Hyundai,Elite i20,MAGNA 1.2,2016,"84,053",Petrol,1st Owner,"8,211",₹4.20L,₹4.34L,Noida
+Hyundai,i10,MAGNA 1.1,2015,"71,021",Petrol,1st Owner,"5,376",₹2.75L,₹3.11L,Ghaziabad
+Hyundai,AURA,S 1.2 CNG,2022,"17,797",,1st Owner,"13,920",₹7.12L,₹7.49L,Noida
+Tata,Tiago,XZ PETROL,2017,"90,967",Petrol,1st Owner,"7,468",₹3.82L,,Noida
+Tata,NEXON,XT PLUS PETROL,2019,"48,737",Petrol,1st Owner,"12,512",₹6.40L,₹6.63L,Noida
+Tata,ALTROZ,XZA,2022,"34,420",Petrol,1st Owner,"15,151",₹7.75L,,Noida
+Datsun,Redi Go,A,2018,"45,517",Petrol,1st Owner,"4,477",₹2.29L,₹2.67L,Ghaziabad
+Mahindra,XUV300,W6 1.2 PETROL AMT,2022,"7,290",Petrol,1st Owner,"17,440",₹9.16L,,Ghaziabad
+Hyundai,Elite i20,SPORTZ 1.2,2016,"63,038",Petrol,1st Owner,"9,306",₹4.76L,₹5.32L,Ghaziabad
+Hyundai,Elite i20,SPORTZ PLUS 1.2 DUAL TONE,2019,"32,152",Petrol,1st Owner,"12,629",₹6.46L,₹7.34L,Ghaziabad
+Maruti,Wagon R 1.0,VXI,2016,"78,446",Petrol,1st Owner,"6,061",₹3.10L,₹3.28L,Noida
+Honda,Brio,S MT,2014,"58,271",Petrol,1st Owner,"6,584",₹2.96L,,Ghaziabad
+MG,HECTOR PLUS,SHARP HYBRID 1.5 PETROL,2020,"22,805",Petrol,1st Owner,"26,305",₹13.82L,,Ghaziabad
+Maruti,Swift,LXI,2020,"39,683",Petrol,1st Owner,"9,834",₹5.03L,₹5.20L,Delhi
+Mahindra,XUV300,W6 1.5 DIESEL,2020,"79,568",Diesel,1st Owner,"14,858",₹7.60L,₹8.20L,Noida
+KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2022,"39,906",Diesel,1st Owner,"29,655",₹15.58L,₹16.24L,Delhi
+Hyundai,Elite i20,MAGNA 1.2,2015,"71,235",Petrol,1st Owner,"8,231",₹4.21L,,Delhi
+Renault,Kwid,RXT 1.0 AMT (O),2018,"30,079",Petrol,1st Owner,"6,679",₹3.42L,₹3.42L,Ghaziabad
+Hyundai,AURA,S 1.2,2022,"25,009",Petrol,1st Owner,"12,141",₹6.21L,₹6.95L,Noida
+Hyundai,Creta,SX (O) 1.4 TURBO DCT,2020,"48,230",Petrol,2nd Owner,"24,554",₹12.90L,₹14.22L,Noida
+Maruti,Swift Dzire,LXI (O),2015,"93,416",Petrol,1st Owner,"6,970",₹3.56L,,Delhi
+Mahindra,Bolero,B6 (O),2021,"35,315",Diesel,1st Owner,"15,722",₹8.26L,₹8.60L,Noida
+Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,2021,"65,981",,1st Owner,"11,065",₹5.66L,₹6.30L,Noida
+Mahindra,Scorpio,S11 2WD,2021,"69,262",Diesel,1st Owner,"27,295",₹14.34L,₹14.95L,Noida
+KIA,SONET,HTX 1.0 IMT,2020,"54,666",Petrol,1st Owner,"14,760",₹7.55L,,Noida
+Hyundai,Elite i20,SPORTZ 1.2,2015,"33,384",Petrol,1st Owner,"8,993",₹4.60L,,Ghaziabad
+Honda,City,1.5L I-VTEC V MT,2017,"19,620",Petrol,1st Owner,"13,509",₹6.91L,,Ghaziabad
+KIA,SONET,HTK PLUS 1.5 AT,2021,"53,782",Diesel,1st Owner,"16,769",₹8.81L,₹9.09L,Noida
+Hyundai,i20 Active,1.2 S,2017,"14,122",Petrol,1st Owner,"10,921",₹5.59L,₹5.98L,Gurugram
+Maruti,Swift,VXI,2015,"43,805",Petrol,1st Owner,"7,058",₹3.61L,₹4.30L,Delhi
+Maruti,Swift,VXI AMT,2021,"29,279",Petrol,1st Owner,"12,199",₹6.24L,₹6.76L,Noida
+Honda,Jazz,1.2L I-VTEC V CVT,2018,"56,014",Petrol,1st Owner,"11,554",₹5.91L,₹6.28L,Gurugram
+Hyundai,GRAND I10 NIOS,ASTA AMT 1.2 KAPPA VTVT,2020,"24,822",Petrol,1st Owner,"12,727",₹6.51L,,Delhi
+Honda,Brio,S MT,2013,"50,638",Petrol,1st Owner,"6,241",₹2.37L,₹2.46L,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2022,"36,651",Petrol,1st Owner,"12,708",₹6.50L,,Metro
+KIA,SELTOS,HTK PLUS 1.5 DIESEL IMT,2022,"44,548",Diesel,1st Owner,"23,469",₹12.33L,₹13.40L,Delhi
+Maruti,Wagon R 1.0,LXI CNG,2018,"68,828",,2nd Owner,"7,179",₹3.67L,₹3.79L,Gurugram
+Mahindra,Thar,LX PETROL HT 4WD AT,2021,"34,049",Petrol,1st Owner,"24,445",₹12.84L,₹13.10L,Delhi
+Maruti,Wagon R 1.0,VXI,2014,"81,616",,2nd Owner,"9,124",₹2.75L,₹2.85L,Delhi
+Hyundai,AURA,S 1.2 CNG,2022,"35,591",,1st Owner,"14,489",₹7.41L,,Gurugram
+Tata,PUNCH,ADVENTURE RHYTHM PACK MT,2022,"14,386",Petrol,1st Owner,"12,317",₹6.30L,₹6.50L,Metro
+Maruti,Alto 800,LXI,2018,"68,182",Petrol,2nd Owner,"5,142",₹2.63L,₹2.78L,Delhi
+Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,2022,"29,231",Petrol,1st Owner,"18,063",₹9.49L,₹10.55L,Gurugram
+Hyundai,Xcent,S 1.2,2017,"1,25,298",,1st Owner,"8,030",₹3.61L,₹3.74L,Faridabad
+Maruti,IGNIS,DELTA 1.2,2018,"57,626",Petrol,1st Owner,"8,035",₹4.11L,₹4.88L,Gurugram
+Maruti,Swift,VXI,2018,"76,889",,1st Owner,"9,482",₹4.85L,,Noida
+Hyundai,NEW SANTRO,SPORTZ AMT,2019,"36,750",Petrol,1st Owner,"8,133",₹4.16L,₹4.45L,Faridabad
+Tata,TIGOR,XZ PLUS CNG LEATHERETTE PACK,2022,"32,734",,1st Owner,"13,837",₹7.08L,₹7.90L,Noida
+Hyundai,Creta,SX EXECUTIVE 1.5 PETROL,2021,"21,873",Petrol,1st Owner,"24,173",₹12.70L,,Delhi
+Hyundai,i20,SPORTZ 1.2,2014,"83,724",,2nd Owner,"11,691",₹3.52L,₹3.62L,Delhi
+Hyundai,NEW I20,SPORTZ 1.2 MT,2020,"47,357",Petrol,1st Owner,"12,278",₹6.28L,₹6.59L,Faridabad
+Maruti,Wagon R 1.0,VXI,2013,"19,147",Petrol,2nd Owner,"6,494",₹2.47L,,Delhi
+Honda,WR-V,1.2L I-VTEC VX MT,2017,"47,014",Petrol,1st Owner,"11,456",₹5.86L,,Delhi
+Renault,Kwid,RXL 1.0 AMT,2017,"48,799",Petrol,2nd Owner,"5,357",₹2.74L,,Gurugram
+Mahindra,XUV300,W6 1.2 PETROL,2022,"12,982",Petrol,2nd Owner,"14,487",₹7.41L,₹8.36L,Noida
+Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,2022,"37,133",,2nd Owner,"12,688",₹6.49L,₹7.59L,Noida
+Tata,NEXON,XZA PLUS PETROL,2022,"27,997",Petrol,1st Owner,"17,683",₹9.29L,₹9.77L,Gurugram
+Hyundai,NEW SANTRO,SPORTZ CNG,2019,"63,211",,1st Owner,"8,954",₹4.58L,₹5.37L,Gurugram
+Renault,TRIBER,RXE MT,2021,"23,863",,1st Owner,"9,599",₹4.91L,,Delhi
+Maruti,Alto K10,VXI,2017,"98,904",Petrol,1st Owner,"5,119",₹2.62L,₹2.77L,Noida
+Maruti,New Wagon-R,LXI 1.0,2022,"15,931",Petrol,1st Owner,"10,109",₹5.17L,,Noida
+Tata,NEXON EV,XM,2023,"40,804",,1st Owner,"25,296",₹13.29L,₹14.11L,Noida
+Maruti,Baleno,DELTA PETROL 1.2,2016,"36,779",Petrol,1st Owner,"8,641",₹4.42L,₹4.60L,Noida
+Renault,Kwid,CLIMBER 1.0 (O),2019,"44,792",Petrol,1st Owner,"7,449",₹3.81L,,Ghaziabad
+Hyundai,Elite i20,SPORTZ 1.2,2015,"1,01,722",Petrol,2nd Owner,"8,987",₹4.04L,₹4.56L,Ghaziabad
+Honda,WR-V,1.2L I-VTEC S MT,2019,"50,392",Petrol,1st Owner,"11,007",₹5.63L,₹6.13L,Noida
+Nissan,MAGNITE,XE,2022,"28,778",Petrol,1st Owner,"10,498",₹5.37L,₹6.09L,Noida
+Tata,Tiago,XT PETROL,2023,"9,531",Petrol,1st Owner,"11,144",₹5.70L,₹6.22L,Noida
+Hyundai,Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,2018,"45,465",Petrol,1st Owner,"10,225",₹5.23L,,Ghaziabad
+Maruti,S PRESSO,VXI PLUS AMT,2020,"31,304",Petrol,1st Owner,"8,289",₹4.24L,₹4.86L,Noida
+Renault,Kwid,RXT 0.8 (O),2016,"39,687",Petrol,2nd Owner,"4,536",₹2.32L,,Ghaziabad
+Toyota,URBAN CRUISER,HIGH GRADE MT,2021,"37,969",Petrol,1st Owner,"15,970",₹8.39L,₹8.46L,Ghaziabad
+Maruti,Baleno,ZETA CVT PETROL 1.2,2016,"89,188",Petrol,1st Owner,"9,289",₹4.75L,,Noida
+Nissan,MAGNITE,XL,2023,"12,295",Petrol,1st Owner,"12,082",₹6.18L,₹6.67L,Noida
+Honda,WR-V,1.2L I-VTEC VX MT,2019,"69,079",Petrol,1st Owner,"13,079",₹6.69L,₹7.02L,Delhi
+Honda,Amaze,1.2L I-VTEC S,2019,"60,607",Petrol,1st Owner,"10,401",₹5.32L,₹6.32L,Faridabad
+Skoda,Rapid,STYLE TSI,2021,"39,424",Petrol,1st Owner,"16,826",₹8.84L,,Ghaziabad
+Maruti,IGNIS,ZETA 1.2 AMT,2022,"20,115",Petrol,1st Owner,"11,456",₹5.86L,₹7.07L,Noida
+Tata,NEXON,XE PETROL,2018,"55,298",Petrol,2nd Owner,"8,974",₹4.59L,,Faridabad
+Hyundai,Creta,SX PLUS 1.6 PETROL,2017,"1,14,837",Petrol,,"14,192",₹6.38L,₹7.88L,Noida
+Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2019,"65,337",Petrol,1st Owner,"16,236",₹8.53L,₹8.79L,Ghaziabad
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2020,"27,849",Petrol,2nd Owner,"9,776",₹5.00L,,Delhi
+Maruti,Swift,ZXI PLUS,2018,"73,844",Petrol,2nd Owner,"10,489",₹5.37L,,Delhi
+Hyundai,i20,MAGNA (O) 1.2,2013,"67,351",Petrol,2nd Owner,"6,636",₹2.52L,,Ghaziabad
+Hyundai,Elite i20,SPORTZ 1.2,2015,"55,045",Petrol,1st Owner,"8,758",₹4.48L,,Delhi
+Honda,Amaze,1.2L I-VTEC S,2017,"45,651",Petrol,2nd Owner,"8,055",₹4.12L,₹5.08L,Delhi
+Honda,Brio,S MT,2013,"92,028",Petrol,2nd Owner,"6,004",₹2.28L,₹2.37L,Noida
+Mahindra,Bolero,B6 (O),2024,"9,459",Diesel,1st Owner,"19,872",₹10.44L,,Noida
+Honda,Amaze,1.2L I-VTEC SX,2015,"1,21,870",Petrol,1st Owner,"7,612",₹3.42L,₹3.63L,Delhi
+Maruti,Swift,VXI,2021,"52,266",Petrol,1st Owner,"11,413",₹5.84L,,Ghaziabad
+Maruti,Swift,LXI,2018,"33,745",Petrol,1st Owner,"9,580",₹4.90L,,Noida
+Maruti,Swift,LXI,2015,"17,036",Petrol,1st Owner,"7,213",₹3.69L,₹3.85L,Noida
+Ford,Ecosport,TITANIUM + 1.5L PETROL,2019,"74,764",Petrol,1st Owner,"13,607",₹6.96L,₹7.53L,Noida
+Honda,City,1.5L I-VTEC V MT,2016,"71,930",,2nd Owner,"12,106",₹5.44L,₹5.82L,Gurugram
+Tata,Tiago,XT CNG,2022,"43,369",,1st Owner,"10,977",₹5.61L,₹5.89L,Delhi
+Maruti,Eeco,5 STR AC CNG,2023,"28,162",,1st Owner,"11,535",₹5.90L,₹6.39L,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2017,"42,198",Petrol,1st Owner,"9,482",₹4.85L,,Gurugram
+Maruti,Baleno,DELTA PETROL 1.2,2017,"55,486",Petrol,1st Owner,"9,267",₹4.74L,,Delhi
+Tata,NEXON,XM PETROL,2018,"36,153",Petrol,2nd Owner,"10,733",₹5.49L,₹6.46L,Delhi
+MG,HECTOR,SAVVY PRO 1.5 TURBO CVT PETROL,2023,"30,869",Petrol,1st Owner,"34,337",₹18.04L,₹20.04L,Ghaziabad
+Ford,Ecosport,TITANIUM 1.5L DIESEL,2021,"24,988",Diesel,1st Owner,"16,141",₹8.48L,,Ghaziabad
+Renault,Kwid,RXT 1.0 AMT (O),2018,"76,287",Petrol,1st Owner,"6,803",₹3.48L,,Ghaziabad
+Nissan,Micra,XL PETROL,2012,"86,119",Petrol,1st Owner,"5,912",₹1.78L,₹1.87L,Delhi
+Mahindra,XUV300,W8 (O) 1.5 DIESEL,2023,"6,486",Diesel,1st Owner,"24,440",₹12.84L,,Noida
+Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,2017,"1,22,703",,1st Owner,"10,071",₹4.53L,,Ghaziabad
+KIA,SELTOS,HTK PLUS 1.5,2020,"38,951",Petrol,1st Owner,"20,024",₹10.52L,,Noida
+Hyundai,Elite i20,ASTA 1.2,2016,"87,542",Petrol,1st Owner,"8,954",₹4.58L,₹4.72L,Ghaziabad
+Maruti,Wagon R 1.0,VXI,2014,"99,973",Petrol,1st Owner,"5,717",₹2.57L,,Delhi
+Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,2022,"37,838",,1st Owner,"13,099",₹6.70L,₹7.38L,Noida
+Hyundai,Creta,E PLUS 1.6 PETROL,2017,"31,979",Petrol,1st Owner,"14,369",₹7.35L,₹8.04L,Ghaziabad
+Hyundai,Creta,SX (O) AT 1.5 DIESEL,2021,"92,494",Diesel,1st Owner,"26,686",₹14.02L,,Ghaziabad
+Hyundai,NEW I20,ASTA (O) 1.0 TURBO GDI DCT,2021,"36,442",Petrol,2nd Owner,"16,217",₹8.52L,₹9.29L,Noida
+Maruti,IGNIS,DELTA 1.2 AMT,2017,"80,877",Petrol,1st Owner,"7,566",₹3.87L,₹4.18L,Ghaziabad
+Maruti,Ciaz,ZXI+ RS,2016,"80,745",Petrol,1st Owner,"10,811",₹5.53L,₹6.44L,Noida
+Honda,Brio,S MT,2016,"49,998",Petrol,2nd Owner,"6,393",₹3.27L,₹3.53L,Delhi
+Toyota,Innova Crysta,2.7 VX 7 STR,2022,"21,969",Petrol,1st Owner,"37,097",₹19.49L,₹20.17L,Ghaziabad
+KIA,SONET,HTK PLUS 1.2,2020,"53,517",Petrol,1st Owner,"14,076",₹7.20L,,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2019,"66,079",Petrol,1st Owner,"11,183",₹5.72L,,Delhi
+Hyundai,VENUE,SX 1.0 (O) TURBO,2019,"83,735",Petrol,1st Owner,"15,112",₹7.73L,₹8.16L,Delhi
+Maruti,S PRESSO,VXI,2019,"40,532",Petrol,1st Owner,"6,613",₹3.38L,₹3.95L,Gurugram
+Hyundai,GRAND I10 NIOS,MAGNA 1.2 KAPPA VTVT,2019,"72,835",Petrol,1st Owner,"8,387",₹4.29L,₹4.68L,Gurugram
+Tata,Safari,XZA PLUS GOLD 6 S,2021,"62,552",Diesel,1st Owner,"34,794",₹18.28L,₹19.77L,Gurugram
+MG,HECTOR,SHARP HYBRID 1.5 PETROL,2021,"66,447",Petrol,1st Owner,"24,859",₹13.06L,,Faridabad
+Maruti,Ciaz,S 1.5 MT PETROL,2021,"66,012",Petrol,2nd Owner,"16,122",₹8.47L,₹9.00L,Delhi
+Maruti,S PRESSO,VXI (O) AMT,2023,"7,668",Petrol,1st Owner,"9,756",₹4.99L,₹5.56L,Faridabad
+Maruti,Alto,LXI OPT CNG,2023,"36,773",,1st Owner,"8,858",₹4.53L,,Delhi
+Honda,Amaze,1.2L I-VTEC VX,2019,"69,509",Petrol,1st Owner,"10,518",₹5.38L,,Delhi
+KIA,CARENS,LUXURY PLUS 1.4 PETROL DCT 6 STR,2022,"22,772",Petrol,1st Owner,"30,074",₹15.80L,₹16.47L,Faridabad
+Honda,Jazz,1.2L I-VTEC V CVT,2021,"30,141",Petrol,1st Owner,"14,565",₹7.45L,₹8.06L,Delhi
+Renault,Duster,RXS CVT,2018,"1,07,311",Petrol,1st Owner,"12,546",₹5.64L,₹6.11L,Faridabad
+Honda,Amaze,1.2L I-VTEC VX,2022,"33,186",Petrol,1st Owner,"14,446",₹7.39L,₹7.51L,Gurugram
+Maruti,Alto,LXI OPT CNG,2022,"21,397",,1st Owner,"8,094",₹4.14L,₹4.67L,Gurugram
+Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,2019,"59,284",Petrol,2nd Owner,"10,420",₹5.33L,₹6.40L,Gurugram
+Hyundai,i10,ERA 1.1,2013,"66,799",Petrol,1st Owner,"5,704",₹2.17L,₹2.27L,Delhi
+Honda,City,1.5L I-VTEC VX CVT,2019,"46,603",Petrol,2nd Owner,"15,532",₹8.16L,₹8.84L,Faridabad
+Maruti,IGNIS,DELTA 1.2,2023,"37,874",Petrol,1st Owner,"10,619",₹5.43L,,Faridabad
+Mahindra,Thar,LX D AT 4WD HT,2022,"56,425",Diesel,1st Owner,"25,125",₹13.20L,₹14.17L,Delhi
+Honda,City,1.5L I-VTEC SV,2015,"38,175",Petrol,1st Owner,"10,633",₹5.44L,₹5.51L,Delhi
+Hyundai,Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,2018,"28,910",Petrol,2nd Owner,"9,638",₹4.93L,₹5.51L,Ghaziabad
+Hyundai,Elite i20,SPORTZ 1.2,2015,"69,231",Petrol,1st Owner,"8,817",₹4.51L,₹4.82L,Noida
+KIA,CARENS,PRESTIGE PLUS 1.4 PETROL DCT 7 STR,2022,"25,172",Petrol,1st Owner,"25,506",₹13.40L,,Gurugram
+Maruti,Ciaz,VXI+AT,2015,"70,312",Petrol,1st Owner,"10,538",₹5.39L,₹5.96L,Ghaziabad
+Maruti,Baleno,ZETA PETROL 1.2,2019,"33,250",Petrol,1st Owner,"11,867",₹6.07L,₹6.07L,Delhi
+Tata,ALTROZ,XM PLUS PETROL,2021,"52,808",Petrol,1st Owner,"12,102",₹6.19L,₹6.69L,Gurugram
+Toyota,Innova Crysta,2.4 GX AT 7 STR,2022,"46,754",Diesel,1st Owner,"36,622",₹19.24L,₹20.96L,Delhi
+Hyundai,NEW SANTRO,SPORTZ CNG,2020,"38,747",,1st Owner,"9,853",₹5.04L,₹5.39L,Delhi
+Hyundai,Santro Xing,GL PLUS,2014,"44,797",Petrol,2nd Owner,"5,005",₹2.25L,₹2.63L,Delhi
+Honda,Amaze,1.2L I-VTEC S,2016,"79,819",Petrol,2nd Owner,"7,116",₹3.64L,₹3.86L,Gurugram
+Honda,City,1.5L I-VTEC ZX CVT,2022,"16,852",Petrol,1st Owner,"25,563",₹13.43L,₹14.73L,Delhi
+Hyundai,VENUE,S PLUS 1.5 CRDI,2023,"24,899",Diesel,1st Owner,"18,463",₹9.70L,,Gurugram
+Hyundai,Elite i20,MAGNA PLUS 1.2,2020,"44,218",Petrol,1st Owner,"10,859",₹5.55L,₹5.82L,Gurugram
+Tata,Tiago,XT PETROL,2021,"53,343",Petrol,1st Owner,"9,521",₹4.87L,₹5.77L,Faridabad
+Honda,City,1.5L I-VTEC S MT,2013,"85,993",Petrol,2nd Owner,"8,321",₹3.16L,,Gurugram
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2014,"44,269",,1st Owner,"11,567",₹3.48L,₹3.71L,Faridabad
+Honda,Jazz,1.2L I-VTEC V AT,2017,"64,371",Petrol,1st Owner,"9,423",₹4.82L,₹5.16L,Gurugram
+Hyundai,NEW I20,SPORTZ 1.2 MT,2022,"25,816",Petrol,2nd Owner,"12,884",₹6.59L,₹7.26L,Faridabad
+Hyundai,i20,MAGNA 1.2,2013,"69,926",Petrol,1st Owner,"7,749",₹2.94L,,Gurugram
+Hyundai,GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,2019,"1,23,447",Petrol,2nd Owner,"12,346",₹5.55L,₹6.08L,Ghaziabad
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2018,"57,210",Petrol,1st Owner,"8,524",₹4.36L,₹4.70L,Delhi
+Hyundai,i10,SPORTZ 1.2,2012,"66,034",Petrol,1st Owner,"7,367",₹2.22L,₹2.27L,Gurugram
+Tata,ALTROZ,XZA PLUS DARK EDTION,2022,"29,256",Petrol,1st Owner,"15,452",₹7.90L,₹8.17L,Gurugram
+Honda,City,1.5L I-VTEC VX CVT,2015,"75,311",Petrol,1st Owner,"12,023",₹6.15L,,Noida
+Maruti,Swift,VXI,2014,"70,712",Petrol,1st Owner,"7,697",₹3.46L,₹4.03L,Noida
+Mahindra,Thar,LX PETROL HT 4WD AT,2021,"23,550",Petrol,1st Owner,"24,439",₹12.84L,₹13.30L,Noida
+MG,HECTOR,SHARP 1.5 DCT PETROL,2020,"44,774",Petrol,1st Owner,"24,021",₹12.62L,,Delhi
+Mahindra,Scorpio,S3 PLUS,2021,"57,872",Diesel,1st Owner,"20,690",₹10.87L,₹11.55L,Delhi
+Hyundai,Verna,FLUIDIC 1.6 VTVT EX,2012,"52,744",Petrol,1st Owner,"11,127",₹3.35L,₹3.52L,Faridabad
+Tata,NEXON,XM SUNROOF PETROL,2022,"54,324",Petrol,1st Owner,"13,939",₹7.13L,₹7.54L,Gurugram
+Honda,Amaze,1.2L I-VTEC S,2013,"70,354",Petrol,1st Owner,"7,953",₹3.02L,₹3.35L,Faridabad
+Maruti,Ertiga,VXI,2017,"78,908",Petrol,2nd Owner,"11,619",₹5.94L,₹6.17L,Delhi
+Honda,City,1.5L I-VTEC ZX CVT,2023,"9,998",Petrol,1st Owner,"26,762",₹14.06L,₹14.89L,Delhi
+Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,2016,"15,358",Petrol,1st Owner,"8,524",₹4.36L,₹5.34L,Noida
+Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2015,"27,846",Petrol,2nd Owner,"8,133",₹4.16L,,Faridabad
+Honda,Brio,E MT,2013,"52,859",Petrol,1st Owner,"6,320",₹2.40L,₹2.87L,Delhi
+Maruti,Ciaz,ZETA 1.4  AT PETROL,2017,"50,042",Petrol,1st Owner,"12,668",₹6.48L,,Faridabad
+Tata,Safari,XMA,2022,"51,521",Diesel,1st Owner,"27,447",₹14.42L,₹15.53L,Gurugram
+Hyundai,VENUE,SX 1.5 (O) EXECUTIVE CRDI,2021,"65,763",Diesel,2nd Owner,"16,123",₹8.47L,₹9.36L,Gurugram
+Hyundai,NEW I20,SPORTZ 1.2 AT,2022,"23,021",Petrol,1st Owner,"15,582",₹7.97L,₹8.63L,Faridabad
+Maruti,Ciaz,ALPHA  AT 1.4  PETROL,2017,"74,276",Petrol,1st Owner,"11,535",₹5.90L,₹6.51L,Gurugram
+KIA,CARENS,PRESTIGE PLUS 1.4 PETROL 7 STR,2023,"5,879",Petrol,1st Owner,"24,078",₹12.65L,₹13.77L,Gurugram
+Maruti,Eeco,5 STR WITH A/C+HTR,2018,"76,330",Petrol,1st Owner,"7,312",₹3.74L,₹3.84L,Faridabad
+Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,2022,"46,413",Petrol,1st Owner,"15,151",₹7.75L,,Delhi
+Maruti,Vitara Brezza,ZXI,2020,"77,058",Petrol,1st Owner,"14,485",₹7.41L,₹7.52L,Faridabad
+Honda,Jazz,1.2L I-VTEC VX,2019,"82,636",Petrol,1st Owner,"10,811",₹5.53L,₹6.40L,Faridabad
+Maruti,Celerio,VXI (O) CNG,2020,"56,064",,1st Owner,"9,282",₹4.75L,₹4.92L,Faridabad
+Hyundai,NEW I20,SPORTZ 1.2 MT,2020,"52,271",Petrol,1st Owner,"12,290",₹6.29L,₹6.55L,Faridabad
+Maruti,Swift,VXI AMT,2018,"28,390",Petrol,1st Owner,"10,560",₹5.40L,₹5.65L,Gurugram
+Maruti,Baleno,ALPHA CVT PETROL 1.2,2018,"62,637",Petrol,1st Owner,"11,712",₹5.99L,₹6.42L,Delhi
+Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2017,"93,057",Petrol,1st Owner,"8,035",₹4.11L,₹4.93L,Gurugram
+Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,2021,"25,523",Petrol,1st Owner,"14,799",₹7.57L,,Gurugram
+Renault,Kwid,CLIMBER 1.0 AMT,2022,"10,578",Petrol,1st Owner,"8,758",₹4.48L,₹4.89L,Faridabad
+Tata,Tiago,XZ PETROL,2018,"44,738",Petrol,2nd Owner,"7,625",₹3.90L,,Gurugram
+Maruti,Dzire,ZXI,2017,"35,850",Petrol,1st Owner,"10,244",₹5.24L,₹5.78L,Faridabad
+Honda,Amaze,1.2L I-VTEC S,2023,"11,817",Petrol,1st Owner,"13,503",₹6.91L,₹7.29L,Gurugram
+Maruti,IGNIS,SIGMA 1.2,2022,"27,028",Petrol,1st Owner,"9,470",₹4.84L,₹4.97L,Faridabad
+Maruti,Baleno,DELTA 1.2 AGS,2022,"14,731",Petrol,1st Owner,"14,174",₹7.25L,,Faridabad
+Hyundai,Elite i20,SPORTZ 1.2,2016,"99,862",,1st Owner,"10,210",₹4.59L,₹4.80L,Gurugram
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2015,"77,646",Petrol,1st Owner,"6,588",₹3.37L,₹3.67L,Gurugram
+Datsun,Redi Go,T(O) 1.0,2020,"68,899",Petrol,1st Owner,"6,373",₹3.26L,,Gurugram
+Honda,City,1.5L I-VTEC V MT,2014,"49,190",Petrol,1st Owner,"10,680",₹4.80L,,Faridabad
+Maruti,Swift,ZXI PLUS AMT,2019,"67,242",Petrol,2nd Owner,"11,574",₹5.92L,₹6.84L,Delhi
+Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2015,"38,024",Petrol,2nd Owner,"7,401",₹3.79L,₹3.85L,Faridabad
+Renault,Kwid,CLIMBER 1.0 (O),2020,"48,870",Petrol,1st Owner,"7,302",₹3.73L,₹4.02L,Noida
+Maruti,Baleno,DELTA PETROL 1.2,2016,"42,688",Petrol,1st Owner,"8,641",₹4.42L,,Gurugram
+Honda,Amaze,1.2L I-VTEC VX CVT,2023,"28,676",Petrol,1st Owner,"15,722",₹8.26L,,Gurugram
+Maruti,Alto K10,VXI,2019,"59,886",Petrol,2nd Owner,"6,002",₹3.07L,₹3.77L,Delhi
+Hyundai,Xcent,S 1.2,2018,"54,860",Petrol,1st Owner,"8,715",₹4.46L,₹5.26L,Gurugram
+Maruti,Ertiga,VXI,2014,"99,800",Petrol,2nd Owner,"10,032",₹4.51L,₹5.14L,Delhi
+Hyundai,Creta,S 1.6 PETROL,2016,"58,323",Petrol,1st Owner,"13,079",₹6.69L,₹7.31L,Faridabad
+Hyundai,Elite i20,ASTA 1.2 (O),2018,"74,607",,1st Owner,"11,847",₹6.06L,₹6.36L,Ghaziabad
+Maruti,Baleno,ZETA PETROL 1.2,2020,"64,053",,2nd Owner,"11,476",₹5.87L,,Ghaziabad
+Maruti,Swift Dzire,VXI,2016,"90,713",Petrol,1st Owner,"8,256",₹4.22L,,Delhi
+Maruti,Ciaz,ALPHA 1.4 PETROL,2017,"1,03,805",Petrol,1st Owner,"13,102",₹5.89L,₹6.90L,Gurugram
+Maruti,Celerio,ZXI PLUS,2022,"23,620",Petrol,1st Owner,"11,144",₹5.70L,₹6.41L,Gurugram
+Volkswagen,Vento,HIGHLINE 1.6 MPI,2016,"34,621",Petrol,2nd Owner,"9,995",₹5.11L,₹5.32L,Delhi
+Maruti,Baleno,ALPHA PETROL 1.2,2016,"37,494",Petrol,1st Owner,"9,501",₹4.86L,₹5.08L,Delhi
+Tata,Tiago,XE PETROL,2019,"23,433",Petrol,2nd Owner,"7,108",₹3.64L,₹3.82L,Gurugram
+Tata,NEXON,XMA SUNROOF DIESEL,2022,"27,728",Diesel,1st Owner,"17,016",₹8.94L,₹10.00L,Delhi
+Maruti,Alto,VXI,2019,"50,186",Petrol,1st Owner,"6,041",₹3.09L,₹3.44L,Faridabad
+Hyundai,Xcent,S 1.2 SPECIAL EDITION,2016,"49,704",Petrol,2nd Owner,"8,250",₹4.22L,₹5.32L,Gurugram
+Honda,Brio,E MT,2013,"79,338",Petrol,1st Owner,"6,188",₹2.35L,₹2.63L,Faridabad
+Renault,TRIBER,RXT,2019,"40,499",Petrol,1st Owner,"8,895",₹4.55L,,Gurugram
+Renault,Kwid,CLIMBER AMT 1.0,2024,"3,776",Petrol,1st Owner,"10,733",₹5.49L,,Delhi
+Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2019,"23,388",Petrol,1st Owner,"17,492",₹9.19L,,Gurugram
+Tata,PUNCH,ACCOMPLISHED AMT,2022,"42,956",Petrol,2nd Owner,"12,077",₹6.18L,₹6.43L,Delhi
+Honda,City,1.5L I-VTE V CVT,2018,"38,275",Petrol,1st Owner,"15,399",₹8.09L,₹8.71L,Gurugram
+Honda,Amaze,1.2L I-VTEC VX,2019,"77,664",Petrol,1st Owner,"11,515",₹5.89L,₹6.43L,Delhi
+KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,2020,"45,759",Petrol,1st Owner,"25,620",₹13.46L,₹14.44L,Gurugram
+Hyundai,NEW SANTRO,SPORTZ AMT,2020,"35,874",Petrol,1st Owner,"9,736",₹4.98L,₹5.60L,Gurugram
+Hyundai,Elite i20,MAGNA PLUS 1.2,2019,"73,133",Petrol,1st Owner,"10,557",₹5.40L,₹5.78L,Gurugram
+Honda,City,1.5L I-VTE V CVT,2019,"60,983",Petrol,1st Owner,"16,312",₹8.57L,₹9.09L,Delhi
+Honda,City,1.5L I-VTE V CVT,2018,"62,350",Petrol,2nd Owner,"14,650",₹7.49L,,Noida
+Maruti,Swift,VXI,2013,"81,246",Petrol,1st Owner,"7,479",₹2.84L,₹3.00L,Delhi
+KIA,SONET,HTX 1.5 AT,2022,"46,123",Diesel,1st Owner,"22,041",₹11.58L,,Gurugram
+Hyundai,AURA,SX 1.2,2022,"11,805",Petrol,1st Owner,"13,294",₹6.80L,₹7.26L,Delhi
+Maruti,Ertiga,VXI,2015,"61,403",Petrol,2nd Owner,"9,775",₹5.00L,₹5.34L,Faridabad
+Maruti,Celerio,VXI CNG,2022,"19,885",,1st Owner,"10,968",₹5.61L,,Faridabad
+Honda,City,1.5L I-VTEC V CVT 5TH GEN,2021,"24,532",Petrol,2nd Owner,"17,835",₹9.37L,,Delhi
+Maruti,Wagon R 1.0,LXI CNG,2018,"94,899",,2nd Owner,"6,764",₹3.46L,,Gurugram
+Maruti,IGNIS,ZETA 1.2 AMT,2017,"46,784",Petrol,1st Owner,"8,856",₹4.53L,,Delhi
+Maruti,Baleno,DELTA PETROL 1.2,2017,"63,159",Petrol,1st Owner,"9,457",₹4.84L,,Noida
+Tata,PUNCH,ADVENTURE MT,2023,"21,911",Petrol,1st Owner,"12,660",₹6.48L,₹6.48L,Delhi
+Maruti,Ciaz,ZETA 1.5 SHVS MT PETROL,2018,"70,544",Petrol,1st Owner,"12,981",₹6.64L,₹7.84L,Ghaziabad
+Hyundai,Xcent,S 1.2,2017,"89,124",Petrol,1st Owner,"8,387",₹4.29L,,Delhi
+Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,2022,"24,157",Petrol,1st Owner,"20,937",₹11.00L,₹11.45L,Noida
+Honda,Amaze,1.2L I-VTEC V,2019,"80,583",,1st Owner,"11,066",₹5.66L,₹5.91L,Faridabad
+Maruti,XL6,ALPHA MT,2019,"25,132",Petrol,1st Owner,"17,726",₹9.31L,₹9.69L,Noida
+Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2019,"77,911",Petrol,1st Owner,"15,857",₹8.33L,₹8.62L,Delhi
+Toyota,Glanza,G,2019,"38,343",Petrol,1st Owner,"11,320",₹5.79L,₹6.28L,Noida
+Hyundai,Elite i20,SPORTZ PLUS 1.2,2020,"88,053",Petrol,1st Owner,"11,527",₹5.90L,₹6.20L,Gurugram
+Maruti,Ertiga,LXI,2012,"56,700",Petrol,1st Owner,"11,858",₹3.57L,₹4.42L,Delhi
+Honda,City,1.5L I-VTEC SV,2015,"44,331",Petrol,1st Owner,"10,264",₹5.25L,₹5.96L,Delhi
+Hyundai,VENUE,SX 1.0 TURBO,2019,"44,076",Petrol,1st Owner,"14,467",₹7.40L,₹7.85L,Noida
+Hyundai,VENUE,S 1.2,2022,"9,588",Petrol,1st Owner,"15,601",₹7.98L,₹9.20L,Noida
+Hyundai,Elite i20,MAGNA 1.2,2014,"1,06,933",Petrol,1st Owner,"8,030",₹3.61L,₹3.93L,Noida
+Honda,Brio,S MT,2013,"39,544",Petrol,1st Owner,"6,952",₹2.64L,,Faridabad
+Toyota,Innova Crysta,2.7 VX 7 STR,2022,"24,855",Petrol,1st Owner,"36,521",₹19.19L,₹20.68L,Delhi
+Honda,Amaze,1.2L I-VTEC V CVT,2020,"75,475",Petrol,1st Owner,"12,903",₹6.60L,₹6.73L,Faridabad
+Maruti,Swift,LXI (O),2016,"91,505",Petrol,1st Owner,"7,175",₹3.67L,₹4.36L,Delhi
+Maruti,Swift,VXI AMT,2021,"31,038",Petrol,1st Owner,"12,121",₹6.20L,,Noida
+Maruti,Wagon R 1.0,LXI CNG,2013,"71,924",,1st Owner,"12,154",₹2.58L,₹2.93L,Faridabad
+Maruti,Swift Dzire,ZXI,2015,"38,655",Petrol,1st Owner,"9,110",₹4.66L,₹5.15L,Gurugram
+Hyundai,Elite i20,MAGNA 1.2,2015,"41,841",Petrol,2nd Owner,"7,370",₹3.77L,₹4.08L,Noida
+Maruti,Wagon R 1.0,VXI,2013,"29,971",Petrol,1st Owner,"6,715",₹2.55L,,Noida
+Maruti,S PRESSO,VXI+,2022,"19,386",,1st Owner,"8,895",₹4.55L,₹5.49L,Faridabad
+Hyundai,i10,MAGNA 1.1,2014,"40,989",Petrol,2nd Owner,"5,286",₹2.38L,₹2.46L,Noida
+Maruti,Swift,LXI (O),2016,"39,131",Petrol,1st Owner,"7,742",₹3.96L,₹4.70L,Delhi
+Volkswagen,VIRTUS,HIGHLINE TSI 1.0 AT,2022,"18,132",Petrol,1st Owner,"24,307",₹12.77L,,Noida
+Honda,WR-V,1.2L I-VTEC VX MT,2018,"18,752",Petrol,1st Owner,"12,199",₹6.24L,₹6.61L,Delhi
+Hyundai,Verna,1.6 VTVT SX (O) AT,2018,"57,099",Petrol,1st Owner,"16,388",₹8.61L,,Noida
+Maruti,Celerio,VXI,2019,"37,606",Petrol,1st Owner,"8,236",₹4.21L,₹4.61L,Delhi
+Hyundai,i10,MAGNA 1.1,2013,"74,627",Petrol,1st Owner,"6,162",₹2.34L,,Faridabad
+Honda,Brio,S MT,2013,"85,559",Petrol,1st Owner,"6,475",₹2.46L,,Noida
+Tata,NEXON,XM PETROL,2019,"55,271",Petrol,1st Owner,"10,596",₹5.42L,₹6.16L,Ghaziabad
+Hyundai,Creta,SX (O) AT 1.5 DIESEL,2022,"28,019",Diesel,2nd Owner,"29,674",₹15.59L,₹17.09L,Ghaziabad
+Tata,NEXON,XZA PLUS PETROL,2018,"60,979",,1st Owner,"12,669",₹6.48L,,Noida
+Maruti,IGNIS,ZETA 1.2 AMT,2017,"41,105",Petrol,1st Owner,"8,622",₹4.41L,,Delhi
+Honda,City,1.5L I-VTEC SV,2014,"60,424",Petrol,1st Owner,"10,811",₹4.86L,,Noida
+Tata,PUNCH,ACCOMPLISHED AMT CAMO EDITION,2022,"8,134",Petrol,1st Owner,"14,093",₹7.21L,₹7.29L,Delhi
+Hyundai,i20,SPORTZ 1.2,2012,"70,448",Petrol,1st Owner,"8,530",₹2.57L,,Delhi
+Tata,ALTROZ,XE PETROL,2022,"16,957",Petrol,1st Owner,"11,007",₹5.63L,₹5.97L,Delhi
+Hyundai,Creta,SX AT 1.6 PETROL,2019,"47,095",Petrol,1st Owner,"19,762",₹10.38L,₹10.89L,Noida
+Maruti,New Wagon-R,LXI 1.0,2022,"12,521",Petrol,1st Owner,"9,619",₹4.92L,,Delhi
+Ford,FREESTYLE,TITANIUM 1.2 PETROL,2019,"57,128",Petrol,1st Owner,"8,583",₹4.39L,₹4.66L,Delhi
+Honda,Amaze,1.2L I-VTEC VX,2014,"52,739",Petrol,1st Owner,"7,763",₹3.49L,₹3.62L,Noida
+Hyundai,i20 Active,1.2 SX,2017,"34,229",Petrol,1st Owner,"10,655",₹5.45L,₹6.05L,Delhi
+Maruti,New Wagon-R,LXI CNG 1.0,2019,"52,174",,1st Owner,"9,677",₹4.95L,,Noida
+KIA,SELTOS,HTK PLUS 1.5 DIESEL,2019,"97,815",Diesel,1st Owner,"18,959",₹8.72L,₹9.75L,Gurugram
+Toyota,Etios,G,2011,"1,01,514",Petrol,1st Owner,"9,744",₹2.07L,₹2.20L,Ghaziabad
+Maruti,Ritz,VXI,2013,"77,038",Petrol,1st Owner,"6,294",₹2.39L,₹2.91L,Faridabad
+Tata,NEXON,XZ PLUS PETROL,2017,"53,893",Petrol,1st Owner,"11,222",₹5.74L,₹6.57L,Ghaziabad
+Honda,City,1.5L I-VTEC V AT,2013,"55,353",Petrol,1st Owner,"10,297",₹3.91L,₹4.98L,Noida
+Ford,Ecosport,TITANIUM 1.5L PETROL,2018,"30,920",Petrol,1st Owner,"12,297",₹6.29L,₹6.73L,Delhi
+Tata,Tiago,XT PETROL,2023,"6,942",Petrol,1st Owner,"11,202",₹5.73L,₹5.82L,Noida
+Toyota,Etios,G,2012,"1,08,059",Petrol,1st Owner,"6,942",₹2.09L,₹2.28L,Delhi
+Mahindra,XUV500,W7,2020,"30,546",Diesel,1st Owner,"19,776",₹10.39L,₹10.72L,Noida
+Hyundai,Verna,1.6 VTVT SX (O) AT,2018,"49,558",Petrol,1st Owner,"16,312",₹8.57L,₹9.47L,Delhi
+Renault,TRIBER,RXZ AMT,2022,"15,977",Petrol,1st Owner,"13,040",₹6.67L,₹7.59L,Noida
+Honda,City,1.5L I-VTEC V MT,2018,"42,123",Petrol,1st Owner,"13,939",₹7.13L,₹7.85L,Noida
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2013,"89,808",Petrol,2nd Owner,"6,978",₹2.65L,₹3.03L,Ghaziabad
+Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2019,"39,849",Petrol,1st Owner,"16,987",₹8.92L,₹9.02L,Noida
+Hyundai,VENUE,SX 1.0 TURBO IMT,2022,"11,965",Petrol,2nd Owner,"15,816",₹8.31L,₹8.72L,Noida
+Honda,City,1.5L I-VTEC ZX CVT,2018,"48,854",Petrol,1st Owner,"16,312",₹8.57L,₹8.84L,Ghaziabad
+Ford,Ecosport,TITANIUM 1.5L DIESEL,2021,"66,194",Diesel,1st Owner,"15,621",₹7.99L,₹8.12L,Delhi
+Renault,TRIBER,RXE MT,2022,"16,359",Petrol,1st Owner,"10,010",₹5.12L,₹5.75L,Delhi
+Honda,WR-V,1.2L I-VTEC VX MT,2017,"32,084",Petrol,1st Owner,"11,456",₹5.86L,₹6.27L,Noida
+KIA,SELTOS,HTX 1.5 PETROL,2020,"31,776",Petrol,1st Owner,"21,528",₹11.31L,,Noida
+Maruti,Baleno,DELTA PETROL 1.2,2019,"42,949",Petrol,1st Owner,"9,658",₹4.94L,₹5.45L,Noida
+Renault,Duster,RXL PETROL,2015,"59,685",Petrol,2nd Owner,"7,468",₹3.82L,,Delhi
+Hyundai,AURA,S 1.2 CNG,2020,"68,868",,1st Owner,"11,926",₹6.10L,₹6.75L,Delhi
+MG,HECTOR,SHARP PRO 1.5 PETROL TURBO CVT PETROL,2023,"9,625",Petrol,1st Owner,"35,556",₹18.68L,₹20.13L,Noida
+KIA,SONET,HTK PLUS 1.0 IMT,2020,"31,442",Petrol,1st Owner,"15,246",₹8.01L,,Noida
+Hyundai,Verna,FLUIDIC 4S 1.6 VTVT S,2015,"83,405",Petrol,1st Owner,"10,029",₹5.13L,₹5.77L,Delhi
+Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,2018,"49,592",Petrol,1st Owner,"10,349",₹5.29L,,Ghaziabad
+Honda,Amaze,1.2L I-VTEC VX CVT,2022,"23,963",Petrol,1st Owner,"15,549",₹7.95L,₹8.31L,Noida
+Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,2018,"61,249",Petrol,1st Owner,"9,873",₹5.05L,,Noida
+Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,2023,"23,257",Petrol,1st Owner,"22,822",₹11.99L,,Delhi
+Maruti,Celerio,VXI CNG,2022,"47,760",,1st Owner,"10,694",₹5.47L,,Ghaziabad
+Maruti,Ertiga,VXI,2014,"42,412",Petrol,1st Owner,"11,144",₹5.01L,,Noida
+Maruti,New Wagon-R,VXI 1.0,2019,"8,062",Petrol,1st Owner,"8,469",₹4.33L,₹4.86L,Noida
+Renault,Kwid,RXT 1.0 (O),2019,"32,556",Petrol,1st Owner,"6,667",₹3.41L,₹3.70L,Noida
+Hyundai,NEW SANTRO,SPORTZ AMT,2019,"69,471",Petrol,1st Owner,"8,055",₹4.12L,₹4.33L,Delhi
+Toyota,Etios Liva,G,2013,"69,165",Petrol,1st Owner,"7,426",₹2.82L,₹3.46L,Noida
+Hyundai,Verna,1.6 VTVT SX (O) AT,2018,"96,725",Petrol,1st Owner,"15,817",₹8.31L,,Noida
+Volkswagen,Polo,HIGHLINE1.2L,2017,"63,103",Petrol,1st Owner,"10,127",₹5.18L,₹5.36L,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2017,"61,380",Petrol,1st Owner,"9,098",₹4.65L,₹4.91L,Noida
+Maruti,Baleno,SIGMA PETROL 1.2,2019,"41,747",Petrol,2nd Owner,"9,325",₹4.77L,,Noida
+Datsun,Go,T,2019,"50,155",Petrol,1st Owner,"5,748",₹2.94L,,Delhi
+Tata,Harrier,XT PLUS 2.0L KRYOTEC,2022,"65,046",Diesel,1st Owner,"26,343",₹13.84L,₹16.10L,Noida
+Maruti,BREZZA,VXI SMART HYBRID,2022,"26,157",Petrol,1st Owner,"16,541",₹8.69L,,Noida
+Honda,Amaze,1.2L I-VTEC S,2019,"53,403",Petrol,1st Owner,"10,655",₹5.45L,₹6.12L,Delhi
+Tata,NEXON,XMA SUNROOF DIESEL,2020,"55,526",Diesel,1st Owner,"14,858",₹7.60L,₹8.58L,Noida
+KIA,SELTOS,HTK PLUS AT 1.5 DIESEL,2019,"87,560",Diesel,1st Owner,"22,329",₹10.27L,₹11.49L,Faridabad
+KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,2022,"17,491",Petrol,1st Owner,"29,179",₹15.33L,₹17.07L,Noida
+Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2017,"55,273",,1st Owner,"7,797",₹3.99L,₹4.11L,Noida
+Maruti,Swift,LXI (O),2017,"72,550",Petrol,1st Owner,"7,859",₹4.02L,₹4.39L,Delhi
+Hyundai,Xcent,S 1.2,2015,"50,611",Petrol,1st Owner,"6,979",₹3.57L,,Delhi
+Hyundai,Verna,1.6 VTVT SX (O) AT,2018,"1,14,262",Petrol,1st Owner,"17,106",₹7.69L,₹8.25L,Noida
+Renault,Duster,RXS OPT CVT,2019,"53,080",Petrol,1st Owner,"13,900",₹7.11L,,Noida
+Toyota,Etios,G,2012,"52,370",Petrol,1st Owner,"8,569",₹2.58L,,Noida
+Tata,TIAGO EV,XT LONG RANGE,2023,"11,378",,1st Owner,"15,893",₹8.35L,₹8.85L,Noida
+Maruti,Alto,LXI OPT CNG,2022,"22,918",,2nd Owner,"8,113",₹4.15L,₹4.73L,Noida
+Mahindra,XUV300,W6 1.5 DIESEL,2019,"63,376",Diesel,1st Owner,"16,127",₹7.25L,₹8.06L,Faridabad
+Renault,Kwid,CLIMBER MT 1.0,2022,"15,288",Petrol,1st Owner,"9,560",₹4.89L,,Delhi
+Honda,City,1.5L I-VTEC SV CVT,2015,"65,806",Petrol,1st Owner,"10,792",₹5.52L,₹5.74L,Delhi
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2017,"38,409",Petrol,1st Owner,"8,152",₹4.17L,₹4.51L,Delhi
+Maruti,Baleno,SIGMA PETROL 1.2,2021,"15,166",Petrol,1st Owner,"11,046",₹5.65L,₹5.74L,Gurugram
+Tata,NEXON,XZ PLUS PETROL DUAL TONE,2019,"24,701",Petrol,1st Owner,"13,744",₹7.03L,,Delhi
+Honda,City,1.5L I-VTEC V MT,2015,"92,773",Petrol,,"8,260",₹4.23L,,Delhi
+Maruti,S PRESSO,VXI (O) CNG,2021,"62,753",,1st Owner,"8,856",₹4.53L,₹5.45L,Ghaziabad
+Maruti,Ciaz,ZETA 1.4  AT PETROL,2018,"99,538",,1st Owner,"13,939",₹7.13L,₹7.64L,Ghaziabad
+Volkswagen,Polo,COMFORTLINE 1.2L,2017,"36,079",Petrol,1st Owner,"9,345",₹4.78L,₹5.01L,Ghaziabad
+Hyundai,NEW SANTRO,SPORTZ AMT,2020,"20,100",Petrol,1st Owner,"9,576",₹4.90L,₹5.30L,Delhi
+Tata,Tiago,XT PETROL,2021,"26,190",Petrol,1st Owner,"10,076",₹5.15L,,Ghaziabad
+Maruti,Wagon R 1.0,LXI CNG,2018,"81,889",,1st Owner,"7,155",₹3.66L,₹4.30L,Noida
+Maruti,Dzire,VXI AMT,2018,"1,05,357",Petrol,1st Owner,"11,812",₹5.31L,₹5.85L,Faridabad
+Maruti,Swift,ZXI PLUS AMT,2018,"70,478",Petrol,1st Owner,"11,183",₹5.72L,₹6.26L,Ghaziabad
+Tata,Tiago,XZ PETROL,2018,"24,777",Petrol,1st Owner,"8,152",₹4.17L,₹4.50L,Delhi
+Hyundai,Creta,S 1.6 PETROL,2016,"88,094",Petrol,2nd Owner,"12,023",₹6.15L,,Delhi
+Hyundai,Elite i20,SPORTZ 1.2 (O),2014,"76,675",Petrol,1st Owner,"9,454",₹4.25L,,Noida
+Maruti,Wagon R 1.0,VXI,2017,"78,597",Petrol,1st Owner,"6,256",₹3.20L,₹3.39L,Ghaziabad
+Skoda,Rapid,AMBITION AT TSI,2021,"65,613",Petrol,1st Owner,"16,008",₹8.41L,,Noida
+Hyundai,AURA,S 1.2 CNG,2020,"70,189",,1st Owner,"11,965",₹6.12L,₹6.69L,Noida
+Maruti,IGNIS,DELTA 1.2,2022,"40,090",Petrol,1st Owner,"10,147",₹5.19L,,Noida
+Mahindra,XUV300,W8(O) TURBO GDI,2022,"29,093",Petrol,1st Owner,"18,937",₹9.95L,₹10.18L,Noida
+Maruti,Swift,VXI AMT,2021,"42,611",Petrol,1st Owner,"12,395",₹6.34L,₹7.26L,Ghaziabad
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2014,"24,818",Petrol,1st Owner,"7,964",₹3.58L,,Noida
+Honda,Amaze,1.2L I-VTEC S,2017,"92,075",Petrol,1st Owner,"8,152",₹4.17L,₹4.56L,Faridabad
+Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,2017,"91,774",Petrol,1st Owner,"9,169",₹4.69L,,Ghaziabad
+KIA,SONET,HTX 1.5 AT,2023,"46,241",Diesel,1st Owner,"20,785",₹10.92L,₹12.28L,Ghaziabad
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2017,"38,988",Petrol,1st Owner,"7,722",₹3.95L,₹4.26L,Ghaziabad
+Nissan,MAGNITE,XV PREMIUM,2021,"68,732",Petrol,1st Owner,"12,258",₹6.27L,₹7.06L,Delhi
+Honda,City,1.5L I-VTEC SV,2018,"1,02,935",Petrol,1st Owner,"12,880",₹5.79L,₹6.74L,Ghaziabad
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2014,"1,16,147",,2nd Owner,"9,533",₹2.87L,₹2.97L,Delhi
+Hyundai,NEW I20,ASTA (O) 1.2 MT,2021,"26,094",Petrol,1st Owner,"15,227",₹8.00L,₹8.25L,Noida
+Maruti,Wagon R 1.0,LXI CNG,2018,"27,906",,2nd Owner,"7,625",₹3.90L,₹4.42L,Noida
+Nissan,MAGNITE,XV PREMIUM TURBO (O) CVT,2022,"35,277",Petrol,1st Owner,"14,780",₹7.56L,₹8.06L,Noida
+Tata,ALTROZ,XZA PLUS,2022,"5,956",Petrol,2nd Owner,"16,407",₹8.62L,₹9.34L,Delhi
+Honda,Amaze,1.2L I-VTEC S,2017,"43,802",Petrol,1st Owner,"8,485",₹4.34L,₹5.45L,Ghaziabad
+Tata,TIGOR,XZ PLUS CNG,2023,"14,076",,1st Owner,"14,587",₹7.46L,₹7.78L,Noida
+Mahindra,XUV300,W8 (O) 1.5 DIESEL,2021,"43,755",Diesel,1st Owner,"18,025",₹9.47L,₹10.09L,Delhi
+Maruti,Alto K10,VXI,2019,"50,950",Petrol,1st Owner,"6,691",₹3.42L,₹3.47L,Delhi
+Maruti,Ciaz,DELTA 1.4 MT PETROL,2017,"83,094",Petrol,1st Owner,"10,596",₹5.42L,₹5.83L,Noida
+Maruti,Wagon R 1.0,LXI CNG,2014,"53,940",,1st Owner,"9,101",₹2.74L,₹3.51L,Noida
+Hyundai,Xcent,S 1.2,2019,"81,227",,2nd Owner,"8,915",₹4.56L,,Delhi
+Maruti,Swift,VXI AMT,2018,"37,575",Petrol,1st Owner,"10,714",₹5.48L,₹6.00L,Delhi
+Maruti,Alto,LXI CNG,2020,"80,815",,1st Owner,"7,468",₹3.82L,,Delhi
+Maruti,Wagon R 1.0,VXI,2013,"20,948",Petrol,1st Owner,"6,851",₹2.60L,,Noida
+Maruti,Alto K10,VXI,2023,"6,027",Petrol,1st Owner,"9,189",₹4.70L,₹5.12L,Delhi
+Honda,WR-V,1.2L I-VTEC S MT,2017,"17,907",Petrol,1st Owner,"10,714",₹5.48L,₹6.07L,Gurugram
+Hyundai,VENUE,SX 1.5 CRDI,2022,"47,985",Diesel,1st Owner,"17,321",₹9.10L,₹10.30L,Noida
+Honda,WR-V,1.2L I-VTEC VX MT,2019,"20,101",Petrol,1st Owner,"14,369",₹7.35L,,Delhi
+Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2018,"62,678",Petrol,1st Owner,"7,742",₹3.96L,₹4.29L,Faridabad
+Maruti,Baleno,DELTA PETROL 1.2,2017,"40,353",Petrol,1st Owner,"9,098",₹4.65L,₹4.76L,Noida
+Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,2017,"28,292",Petrol,1st Owner,"9,658",₹4.94L,₹5.61L,Noida
+Hyundai,NEW I20,ASTA (O) 1.2 AT,2023,"10,426",Petrol,1st Owner,"18,197",₹9.56L,₹10.21L,Noida
+Nissan,MAGNITE,XL,2021,"39,494",Petrol,1st Owner,"10,909",₹5.58L,₹6.17L,Ghaziabad
+Honda,Amaze,1.2L I-VTEC VX,2019,"38,728",Petrol,1st Owner,"11,867",₹6.07L,₹6.57L,Faridabad
+Maruti,Baleno,DELTA PETROL 1.2,2019,"78,811",,1st Owner,"11,225",₹5.74L,,Noida
+Mahindra,XUV500,W11(O),2021,"52,942",Diesel,1st Owner,"26,438",₹13.89L,₹14.91L,Noida
+Honda,Amaze,1.2L I-VTEC S,2013,"1,09,811",Petrol,2nd Owner,"6,741",₹2.56L,₹2.83L,Faridabad
+Hyundai,GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,2023,"2,850",Petrol,1st Owner,"13,411",₹6.86L,₹8.11L,Delhi
+Renault,TRIBER,RXL MT,2023,"7,085",Petrol,1st Owner,"12,336",₹6.31L,₹6.73L,Gurugram
+Hyundai,VENUE,SX 1.0 (O) TURBO,2020,"36,125",Petrol,1st Owner,"15,249",₹7.80L,₹9.33L,Gurugram
+Volkswagen,Ameo,HIGHLINE PLUS 1.0L 16 ALLOY,2018,"41,754",Petrol,1st Owner,"8,641",₹4.42L,₹5.36L,Ghaziabad
+Datsun,Redi Go,A,2018,"84,695",Petrol,1st Owner,"3,421",₹1.75L,,Delhi
+KIA,SONET,HTK PLUS 1.0 IMT,2022,"4,763",Petrol,1st Owner,"17,315",₹9.10L,₹9.74L,Delhi
+Renault,Kwid,RXT 1.0 AMT (O),2019,"13,568",Petrol,1st Owner,"7,214",₹3.69L,₹4.36L,Delhi
+Maruti,Vitara Brezza,VXI AT SHVS,2021,"57,060",Petrol,1st Owner,"15,308",₹7.83L,₹8.42L,Delhi
+Maruti,Vitara Brezza,VDI AMT,2019,"59,574",Diesel,2nd Owner,"14,103",₹6.34L,₹7.00L,Gurugram
+KIA,SONET,HTX 1.0 IMT,2022,"36,650",Petrol,1st Owner,"18,971",₹9.97L,₹11.44L,Noida
+Maruti,Swift Dzire,VXI,2012,"43,592",Petrol,2nd Owner,"7,872",₹2.37L,₹2.75L,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2021,"28,415",Petrol,1st Owner,"11,965",₹6.12L,₹7.05L,Faridabad
+Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2014,"36,819",Petrol,1st Owner,"8,690",₹3.91L,,Gurugram
+Maruti,Swift,LXI (O),2014,"72,954",Petrol,1st Owner,"7,094",₹3.19L,₹3.85L,Ghaziabad
+Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2015,"99,161",Petrol,1st Owner,"5,552",₹2.84L,₹3.73L,Ghaziabad
+Maruti,Baleno,DELTA PETROL 1.2,2020,"60,977",Petrol,1st Owner,"11,280",₹5.77L,₹6.38L,Noida
+Maruti,Celerio,ZXI AMT,2016,"65,856",Petrol,1st Owner,"6,979",₹3.57L,₹3.87L,Ghaziabad
+Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,2019,"31,638",Petrol,1st Owner,"14,359",₹7.34L,₹8.89L,Noida
+KIA,SONET,HTX 1.0 IMT,2022,"34,198",Petrol,1st Owner,"16,940",₹8.90L,₹10.27L,Delhi
+Maruti,Swift,VXI AMT,2021,"11,486",Petrol,1st Owner,"11,711",₹5.99L,₹6.84L,Delhi
+Tata,NEXON,XMA DIESEL,2019,"61,857",Diesel,1st Owner,"14,125",₹6.35L,₹7.45L,Ghaziabad
+Maruti,Alto 800,LXI,2016,"49,442",Petrol,1st Owner,"4,281",₹2.19L,,Noida
+Maruti,Alto 800,LXI,2016,"20,702",Petrol,1st Owner,"5,360",₹2.74L,₹2.81L,Noida
+Maruti,Alto 800,LXI,2013,"22,080",Petrol,2nd Owner,"4,872",₹1.85L,₹2.34L,Ghaziabad
+Hyundai,GRAND I10 NIOS,MAGNA 1.2 KAPPA VTVT,2020,"18,742",Petrol,1st Owner,"10,596",₹5.42L,₹5.80L,Delhi
+Mahindra,XUV700,AX 5 D AT 5 STR,2022,"36,882",Diesel,1st Owner,"31,406",₹16.50L,,Metro
+Ford,Ecosport,TITANIUM 1.5L PETROL,2018,"42,099",Petrol,1st Owner,"12,485",₹6.39L,₹6.67L,Noida
+Maruti,Alto,LXI,2021,"8,783",Petrol,1st Owner,"7,153",₹3.66L,,Noida
+Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,2019,"23,115",Petrol,1st Owner,"11,750",₹6.01L,₹6.81L,Noida
+Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2018,"8,713",Petrol,1st Owner,"8,507",₹4.35L,₹4.62L,Ghaziabad
+Honda,BR-V,1.5L I-VTEC S,2018,"35,871",Petrol,1st Owner,"13,353",₹6.83L,,Noida
+Datsun,Redi Go,A,2019,"19,516",Petrol,2nd Owner,"4,438",₹2.27L,,Delhi
+Hyundai,Elite i20,SPORTZ 1.2,2015,"62,072",Petrol,1st Owner,"8,817",₹4.51L,₹5.24L,Ghaziabad
+Hyundai,Creta,SX 1.5 PETROL,2022,"25,600",Petrol,1st Owner,"25,296",₹13.29L,,Noida
+Honda,Amaze,1.2L I-VTEC V CVT,2019,"50,120",Petrol,1st Owner,"12,669",₹6.48L,₹7.36L,Noida
+Hyundai,Verna,1.6 VTVT SX,2017,"97,929",Petrol,2nd Owner,"13,221",₹6.76L,,Gurugram
+Tata,NEXON,XZA PLUS PETROL,2019,"58,263",Petrol,1st Owner,"13,842",₹7.08L,₹7.55L,Delhi
+Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2019,"26,406",Petrol,1st Owner,"9,775",₹5.00L,,Noida
+Maruti,Swift,VXI,2021,"48,419",Petrol,1st Owner,"11,413",₹5.84L,,Gurugram
+Maruti,Vitara Brezza,VXI AT SHVS,2020,"87,203",,1st Owner,"14,995",₹7.67L,,Ghaziabad
+Hyundai,i10,MAGNA 1.1,2012,"7,480",Petrol,2nd Owner,"6,643",₹2.00L,,Noida
+Hyundai,VENUE,SX (O) 1.0 TURBO DCT,2023,"15,811",Petrol,1st Owner,"22,175",₹11.65L,,Ghaziabad
+Maruti,Ertiga,ZXI+ SHVS,2019,"54,879",Petrol,1st Owner,"16,236",₹8.53L,₹8.88L,Noida
+Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,2020,"42,382",Petrol,2nd Owner,"11,222",₹5.74L,₹6.39L,Delhi
+Honda,Brio,S MT,2015,"28,550",Petrol,1st Owner,"5,161",₹2.64L,₹2.80L,Delhi
+Maruti,Ertiga,VXI CNG,2021,"71,318",,1st Owner,"18,901",₹9.93L,,Delhi
+Renault,Kwid,RXT 1.0 AMT (O),2019,"23,578",Petrol,2nd Owner,"6,644",₹3.40L,₹3.65L,Faridabad
+Maruti,Swift,VXI AMT,2022,"18,753",Petrol,1st Owner,"13,079",₹6.69L,₹7.23L,Delhi
+Maruti,Dzire,VXI,2017,"81,555",Petrol,1st Owner,"9,052",₹4.63L,₹5.05L,Noida
+Maruti,Baleno,DELTA PETROL 1.2,2019,"71,959",,1st Owner,"10,655",₹5.45L,₹6.21L,Noida
+Maruti,New Wagon-R,LXI 1.0,2022,"14,862",Petrol,1st Owner,"10,109",₹5.17L,,Ghaziabad
+Maruti,New Wagon-R,LXI CNG 1.0,2019,"91,839",,1st Owner,"8,721",₹4.46L,₹4.64L,Noida
+Honda,BR-V,1.5L I-VTEC V,2016,"29,151",Petrol,2nd Owner,"11,280",₹5.77L,,Delhi
+Volkswagen,Vento,HIGHLINE 1.6 MPI,2013,"71,793",Petrol,1st Owner,"8,716",₹3.31L,₹3.58L,Noida
+Maruti,Swift,ZXI PLUS,2018,"37,041",Petrol,2nd Owner,"11,085",₹5.67L,,Noida
+Ford,Ecosport,TITANIUM 1.5L PETROL AT,2016,"49,798",Petrol,1st Owner,"10,661",₹5.45L,,Delhi
+Tata,PUNCH,PURE MT,2023,"9,604",Petrol,1st Owner,"10,870",₹5.56L,,Delhi
